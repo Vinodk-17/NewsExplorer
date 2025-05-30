@@ -177,16 +177,61 @@ pip install -r requirements.txt
 
 ## 🖼️ Screenshots
 
-Find screenshots in the `screenshots/` directory:
+Here is the **screenshots section** rewritten to match your detailed feature descriptions and correctly reference the visuals:
 
-1. **Filter Panel**: Sidebar with country, language, and other filters.
-   ![Filter Panel](screenshots/ui.png)
-2. **Article Cards**: Expandable cards displaying article details.
-   ![Article Cards](screenshots/article_cards.png)
-3. **Visualizations**: Plotly charts for data analysis.
+---
+
+## 📸 Screenshots
+
+Find key UI features in the `screenshots/` directory:
+
+1. ### 🏠 **Landing Page**
+
+   Displays a sidebar with all filters and extracted news articles in the main section.
+   ![Landing Page](screenshots/ui.png)
+
+2. ### 🌍 **Country Filter**
+
+   Filtering news articles by selecting specific countries and news sources.
+   ![Country Filter](screenshots/countryfilter.png)
+
+3. ### 🗣️ **Language and Sentiment Filter**
+
+   Refines the results by detecting article language and analyzing sentiment (positive, neutral, negative).
+   ![Language and Sentiment Filter](screenshots/langsenimentfiltering.png)
+
+4. ### 📰 **Full Article Display**
+
+   Expandable cards reveal complete article details including summary, source, language, and sentiment.
+   ![Full Article Display](screenshots/forarticlepanel.png)
+
+5. ### 📊 **Visualization of Filtered Data**
+
+   Interactive Plotly charts for visual analysis of filtered articles by country, language, and sentiment.
    ![Visualizations](screenshots/visualizations.png)
-4. **Live Scraping**: Form for scraping new RSS feeds.
-   ![Live Scraping](screenshots/live_scraping.png)
+
+6. ### 📈 **All Available Data Summary**
+
+   ![Available Data ](screenshots/availabledata.png)
+
+7. ### 🔗 **URL Scraping**
+
+   Form input to scrape new RSS feed URLs and fetch live article data.
+   ![Live Scraping](screenshots/livescraping.png)
+
+8. ### 📥 **Download CSV Format**
+
+   ![Live Scraping](screenshots/downloadcsv.png)
+
+9. ### 🧾 **Download JSON Format**
+
+   ![Live Scraping](screenshots/downloadjson.png)
+  
+
+---
+
+Would you like help designing placeholder screenshots for the missing features (like All Available Data, CSV/JSON export UI), if you don’t already have them?
+
 
 *Note*: Replace placeholders with actual screenshots by capturing the Streamlit UI and saving them in `screenshots/`.
 
