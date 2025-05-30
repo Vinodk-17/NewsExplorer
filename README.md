@@ -180,7 +180,7 @@ pip install -r requirements.txt
 Find screenshots in the `screenshots/` directory:
 
 1. **Filter Panel**: Sidebar with country, language, and other filters.
-   ![Filter Panel](screenshots/filter_panel.png)
+   ![Filter Panel](screenshots/ui.png)
 2. **Article Cards**: Expandable cards displaying article details.
    ![Article Cards](screenshots/article_cards.png)
 3. **Visualizations**: Plotly charts for data analysis.

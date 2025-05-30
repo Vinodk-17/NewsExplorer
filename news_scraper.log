@@ -823,3 +823,843 @@
 2025-05-30 19:28:28,201 - INFO - Saved to downloads\news_data.json
 2025-05-30 19:28:31,911 - INFO - Saved data to database
 2025-05-30 19:28:31,911 - INFO - Scheduled scraping completed
+2025-05-30 19:43:16,763 - INFO - Database setup completed
+2025-05-30 19:43:16,789 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 19:43:16,790 - INFO - Added job "NewsScraper.run_scrape" to job store "default"
+2025-05-30 19:43:16,790 - INFO - Scheduler started
+2025-05-30 19:43:16,791 - INFO - Scheduler started for scraping every 4 hours
+2025-05-30 19:43:16,915 - ERROR - Error parsing date for From students to tech: How US-China ties are sliding despite tariff truce: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:16,994 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:16,996 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:16,996 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:16,998 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:16,999 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:17,000 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:17,002 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:17,004 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:17,033 - ERROR - Error parsing date for 'No more nice guy': Trump reignites trade tensions, warns China on tariff deal: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,035 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:17,035 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:17,038 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:17,039 - ERROR - Error parsing date for US, QUAD nations trying to force India into military alliance, not just trade: Russia: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,040 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:17,040 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:17,044 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:17,045 - ERROR - Error parsing date for Jihadi content, madrasa attack & murders: Inside Bengal engineer’s 'terror trail': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,046 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:17,047 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:17,048 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:17,048 - ERROR - Error parsing date for Inside story of Elon Musk's drug use: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,051 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:43:17,061 - ERROR - Error parsing date for Satya Nadella to employees in Town Hall: 6000 job cuts were related to…: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,065 - ERROR - Error parsing date for \u8d64\u6fa4\u7d4c\u6e08\u518d\u751f\u76f8 \u7c73\u8ca1\u52d9\u9577\u5b98\u3089\u3068\u95a2\u7a0e\u63aa\u7f6e\u3081\u3050\u308b\u95a3\u50da\u4ea4\u6e09\u59cb\u307e\u308b: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,089 - ERROR - Error parsing date for 'Incapable of waging war': Shah lauds BSF for destroying Pak's communication system: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,155 - ERROR - Error parsing date for \u5099\u84c4\u7c73\u58f2\u308a\u6e21\u3057 \u4e2d\u5c0f\u5c0f\u58f2\u696d\u8005\u306a\u3069\u306e\u7533\u8acb \u53d7\u3051\u4ed8\u3051\u59cb\u307e\u308b: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,201 - ERROR - Error parsing date for What PM Modi told kin of Pahalgam attack victim Shubham Dwivedi: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,210 - INFO - Fetched 45 articles from The Guardian (UK)
+2025-05-30 19:43:17,213 - ERROR - Error parsing date for \u4e2d\u56fd \u65e5\u672c\u7523\u6c34\u7523\u7269\u306e\u8f38\u5165 10\u90fd\u770c\u3092\u9664\u304d\u518d\u958b\u3078: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,214 - ERROR - Error parsing date for Microsoft exec has a message for coders, after it laid off over 2k software engineers: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,246 - ERROR - Language detection error: No features in text.
+2025-05-30 19:43:17,255 - ERROR - Error parsing date for DGCA grants IndiGo 3-month extension on Turkish airlines wet lease agreement: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,286 - ERROR - Error parsing date for Moonwalk movie review: A heartfelt tribute to the breakdancing subculture: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,287 - ERROR - Error parsing date for \u30ac\u30bd\u30ea\u30f3\u7a0e\u66ab\u5b9a\u7a0e\u7387 \u5ec3\u6b62\u6cd5\u6848\u306e\u5171\u540c\u63d0\u51fa \u81ea\u516c“\u5fdc\u3058\u3089\u308c\u306a\u3044”: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,290 - ERROR - Error parsing date for BPSC 2025: Notification for DSO/AD posts released; applications open from June 3: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,302 - ERROR - Error parsing date for Vehicle falls into river in Sikkim, Odisha BJP leader among 9 missing: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,306 - ERROR - Error parsing date for \u5927\u6210\u5efa\u8a2d\u793e\u54e14\u4eba \u5efa\u8a2d\u4e2d\u30d3\u30eb\u306e\u65bd\u5de5\u4e0d\u826f\u77e5\u308a\u516c\u8868\u524d\u306b\u81ea\u793e\u682a\u58f2\u5374: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,310 - ERROR - Error parsing date for Stephen Miller's wife Katie Miller is following Elon Musk 'full time': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,314 - ERROR - Error parsing date for 17 Maoist cadres, militia members from Chhattisgarh’s strife- torn south Bastar region surrender before police in Telangana: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,318 - ERROR - Error parsing date for \u629c\u6b6f\u6cbb\u7642\u5f8c\u306e17\u6b73\u6b7b\u4ea1\u3067\u66f8\u985e\u9001\u691c\u306e\u6b6f\u79d1\u533b\u5e2b\u3089\u4e0d\u8d77\u8a34 \u5927\u962a\u5730\u691c: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,321 - ERROR - Error parsing date for Revised Canadian policy eases job transitions for foreign workers: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,323 - ERROR - Error parsing date for Take steps for protection of wetlands, officials of Annamayya district told: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,325 - ERROR - Language detection error: No features in text.
+2025-05-30 19:43:17,341 - ERROR - Error parsing date for India’s Q4 GDP growth beats estimates at 7.4% - Top points: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,424 - ERROR - Error parsing date for Facial recognition devices for Cheyutha pensions: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,481 - INFO - Fetched 35 articles from BBC News (UK)
+2025-05-30 19:43:17,481 - ERROR - Error parsing date for \u540d\u53e4\u5c4b  \u5c0f\u5b66\u6821\u306e\u7406\u79d1\u6388\u696d\u3067\u8aa4\u3063\u305f\u6307\u5c0e \u5150\u7ae51\u4eba\u304c\u91cd\u3044\u3084\u3051\u3069: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,485 - ERROR - Error parsing date for K Kavitha or KTR? BRS caught in ‘succession’ crossfire: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,485 - ERROR - Failed to fetch https://www.thestar.com.my/rss for The Star (Malaysia): 404 Client Error: Not Found for url: https://www.thestar.com.my/rss
+2025-05-30 19:43:17,486 - ERROR - Error parsing date for Goa Challengers begins its quest for hat-trick of titles: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,491 - INFO - Fetched 7 articles from NHK (Japan)
+2025-05-30 19:43:17,502 - ERROR - Error parsing date for WWE SmackDown preview: Full match card, confirmed segments, how to watch and more: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,507 - ERROR - Error parsing date for IRCS urges people in Vizianagaram to donate blood amid summer shortages: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,523 - ERROR - Error parsing date for Who is Xi Jinping's daughter Xi Mingze? Will she be deported from US?: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,528 - ERROR - Error parsing date for Congress leader Baba Fasiuddin, wife and others booked for the death of BRS party worker: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,534 - ERROR - Error parsing date for 'More famous now': Pahalgam terror attack plotter at Lahore rally: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,539 - ERROR - Error parsing date for Thamarassery diocese launches campaign to promote source-level waste management: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,552 - ERROR - Error parsing date for UN declares Gaza the only region where 100% of population faces famine risk: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,596 - ERROR - Error parsing date for Tax official caught while accepting bribe in Vizag: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,597 - ERROR - Historical scrape error for https://www.bbc.com/news/articles/cp00jze920eo: Couldn't find a tree builder with the features you requested: summary. Do you need to install a parser library?
+2025-05-30 19:43:17,644 - ERROR - Error parsing date for 'No country backed India': Cong says BJP’s 'foreign policy failed' post-Op Sindoor: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,678 - ERROR - Error parsing date for Gen AI integrated design programme launched in Mysuru: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,727 - ERROR - Error parsing date for 'Who is this guy?': Virat Kohli's reaction on Musheer Khan goes viral: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,739 - ERROR - Error parsing date for Tenant farmers plan protests in A.P. on June 9 for ID cards, crop loans: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,810 - ERROR - Error parsing date for Taylor Swift rumored to join Kelce in Kansas City for star-studded charity weekend: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,832 - ERROR - Error parsing date for 20 injured in jallikattu at Palaiyapalayam: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,942 - ERROR - Error parsing date for Ankita Bhandari murder: Court sentences ex-BJP minister’s son Pulkit Arya, two aides: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,973 - INFO - Fetched 50 articles from CNN (USA)
+2025-05-30 19:43:17,979 - ERROR - Error parsing date for Thirukkural cannot be de-spiritualised under pressure from some ideology, says Governor: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,984 - ERROR - Error parsing date for When theatres became temples, and a movie became a marvel: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,985 - ERROR - Failed to fetch https://www.thejakartapost.com/feed for Jakarta Post (Indonesia): 404 Client Error: Not Found for url: https://www.thejakartapost.com/feed
+2025-05-30 19:43:17,990 - ERROR - Error parsing date for Allocate \u20b9300 crore to purchase produce from tobacco farmers, CPI(M) urges Andhra Pradesh government: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,993 - ERROR - Error parsing date for AIIMS study reveals sharp rise in obesity among private school kids in Delhi: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:17,999 - ERROR - Error parsing date for Pakistan PM Sharif rakes up India’s abeyance of Indus Waters Treaty at international platform: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,009 - ERROR - Error parsing date for Why is Anushka Sharma blamed in defeat but forgotten in victory?: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,013 - ERROR - Error parsing date for Inclement weather fails to dampen spirits of yoga practitioners; thousands fill streets for Yogandhra-2025: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,022 - ERROR - Error parsing date for 'This journey will not ... ': Jasprit Bumrah reveals retirement plans: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,025 - ERROR - Error parsing date for Serve cardholders sincerely, Civil Supplies Minister tells ration dealers in Andhra Pradesh: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,030 - ERROR - Error parsing date for Watch: Nitish Kumar's latest 'Vajpayee' gaffe with PM Modi on stage: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,043 - ERROR - Error parsing date for Applications invited for posts in Child Welfare Committees in Erode district: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,055 - ERROR - Error parsing date for Taylor Swift steps out in NYC as fans read into her reaction to AMAs "snub": can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,060 - ERROR - Error parsing date for Indian Premier League live score update on SportsCafe: all details and match details: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,064 - ERROR - Error parsing date for 'Days of broken highways, poor railways history': PM Modi in Bihar: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,068 - ERROR - Error parsing date for Water level in Mullaperiyar dam stands at 127.85 feet on May 30, 2025: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,072 - ERROR - Error parsing date for How history now favours RCB: Qualifier 1 winners have dominated IPL finals: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,076 - ERROR - Error parsing date for Finance Ministry recommendations on gold loan norms ‘progressive step’: Muthoot Finance MD: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,085 - ERROR - Error parsing date for Putin lends his car to Shinzo Abe’s widow for Moscow theatre visit - video: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,089 - ERROR - Error parsing date for Here are the big stories from Karnataka today: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,097 - ERROR - Error parsing date for Telangana CM Revanth Reddy says 'PoK would be ours if Rahul Gandhi were PM': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,111 - ERROR - Error parsing date for Flood warning issued to people living downstream of Kabini reservoir: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,116 - ERROR - Error parsing date for Selfie gone wild: Indian attacked by tiger while posing for photo - watch video: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,119 - ERROR - Error parsing date for GP member held for assaulting vendor in Belagavi district: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,119 - ERROR - Failed to fetch https://www.japantimes.co.jp/feed/top for The Japan Times (Japan): 404 Client Error: Not Found for url: https://www.japantimes.co.jp/feed/top/
+2025-05-30 19:43:18,122 - ERROR - Error parsing date for 'There's a shark in the pond!': 20-foot predator startles Rhode Island diners: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,127 - ERROR - Error parsing date for 6,500 Anganwadi centres upgraded to Smart centres across Tamil Nadu, says Minister Geetha Jeevan: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,182 - ERROR - Error parsing date for Bureaucrat vs bureaucrat: IRS officer assaulted inside Income Tax office in Lucknow: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,234 - INFO - Fetched 20 articles from CBC News (Canada)
+2025-05-30 19:43:18,236 - ERROR - Error parsing date for Three killed in accident near Annigeri: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,239 - ERROR - Error parsing date for Watch: Chief engineer throws bundles of Rs 500 notes from flat during raid: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,246 - ERROR - Error parsing date for Eshwarappa raises questions about formation of STF and transfer of top police officials from DK: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,254 - ERROR - Error parsing date for 'Will apologise only if I am wrong': Kamal Haasan defends 'Kannada from Tamil' remarks: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,261 - ERROR - Error parsing date for Fire in plastic shop in Belagavi: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,266 - ERROR - Error parsing date for NEET PG in one shift: SC slams two-shift format as arbitrary and unfair: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,275 - ERROR - Error parsing date for VTU Kalaburagi Regional Centre distributes laptops among SC/ST students: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,280 - ERROR - Error parsing date for 'Would have been divided into four parts if Navy … ': Rajnath to Pak from INS Vikrant: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,289 - ERROR - Error parsing date for Village panchayat heads asked to take effective steps to control street dogs population: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,292 - ERROR - Error parsing date for 'Right of self-defence': Tharoor 'disappointed' over Colombia's reaction to Op Sindoor: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,299 - ERROR - Error parsing date for Adulterated toddy racket exposed: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,306 - ERROR - Error parsing date for 'It smells horrible': Kasol, once the jewel of Parvati Valley, now a dumping ground: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,309 - ERROR - Error parsing date for SW monsoon preparedness meeting held in Krishnagiri: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,313 - ERROR - Error parsing date for Watch: Railway employee makes e-rickshaw driver do sit-ups for crossing closed tracks: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,317 - ERROR - Error parsing date for Cumulative rainfall for May higher than normal in South-interior Karnataka: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,321 - ERROR - Error parsing date for 'Parents need schooling': Kids cry as adults throw punches at each other - watch: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,326 - ERROR - Error parsing date for Two drown while fishing in Kottayam: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,331 - ERROR - Error parsing date for KL Rahul set to leave for England, wants to begin preps for Test series early: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,332 - ERROR - Error parsing date for INA holds 25th convocation ceremony at Ezhimala: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,338 - ERROR - Error parsing date for Covid-19: How this new symptom is key to XFG, NB.1.8.1, and LF.7 variants: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,340 - ERROR - Error parsing date for Enrolment goes up in Telangana but learning outcomes and jobs remain a concern, finds survey: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,344 - INFO - Fetched 45 articles from The Times of India (India)
+2025-05-30 19:43:18,346 - ERROR - Error parsing date for Need to align schemes with NITI Aayog’s SDGs, says Lanka Dinakar: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,357 - ERROR - Error parsing date for YRF unveils teaser of romantic drama ‘Saiyaara’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,361 - ERROR - Error parsing date for Back-to-back protests against the Waqf Act: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,362 - ERROR - Error parsing date for New SPs take charge in Dakshina Kannada, Udupi: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,365 - ERROR - Error parsing date for MP’s plea to give up plans to merge Anna University’s Regional Office with Tirunelveli Government Engineering College: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,368 - ERROR - Error parsing date for Kalaburagi district receives four Praja Soudhas: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,375 - ERROR - Error parsing date for Relentless showers lead to copious inflow to reservoirs: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,377 - ERROR - Error parsing date for Asian Championships | Gulveer completes a double; Pooja, Nandini too corner glory: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,379 - ERROR - Error parsing date for Campaign aiming for planning for Kharif season 2025 begins: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,383 - ERROR - Error parsing date for Palaniswami calls for exempting all gold loans from RBI’s proposed norms: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,386 - ERROR - Error parsing date for Telangana police gear up to prevent communal tensions ahead of Bakrid: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,388 - ERROR - Error parsing date for Speaker, Minister disburse \u20b912.68-crore worth welfare assistance: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,391 - ERROR - Error parsing date for BJP demands removal of Dinesh Gundu Rao as Minister in charge of Dakshina Kannada: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,393 - ERROR - Error parsing date for BSF troops foil Pakistani intruder's attempt to cross the International Border in Pathankot: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,396 - ERROR - Error parsing date for CM to inaugurate regional-level agricultural exhibition near Perundurai on June 11: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,408 - ERROR - Error parsing date for Stalin condoles death of Vaiko’s sister Saroja, Justice Pon. Bhaskaran: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,410 - ERROR - Error parsing date for ISO 9001:2015 certification for TG Industries Commissionerate: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,414 - ERROR - Error parsing date for Minister inaugurates Centrally-funded Common Incubation Centre for coconut value-addition at TNAU: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,414 - ERROR - Failed to fetch https://www.abc.net.au/news/feed for ABC News (Australia): 404 Client Error: Not Found for url: https://www.abc.net.au/news/feed
+2025-05-30 19:43:18,421 - ERROR - Error parsing date for Farmers demand timely completion of desilting work, disbursement of kuruvai special package: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,429 - ERROR - Error parsing date for Andhra Pradesh DGP Harish Kumar Gupta stresses need for a robust security set-up in Tirumala: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,432 - ERROR - Error parsing date for MDU union’s appeal to Jagan on doorstep ration delivery: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,443 - ERROR - Error parsing date for Raw silk production touches 2,723 metric tonnes in Tamil Nadu, says MSME Minister: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,446 - ERROR - Error parsing date for Anti Tobacco Forum opposes reported launch of nicotine-laced candies, toffees, and ice creams: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,448 - ERROR - Error parsing date for Water level in Papanasam, Manimuthar dams: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,452 - ERROR - Error parsing date for Chairperson of Seventh State Finance Commission calls on Chief Minister Stalin: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,454 - ERROR - Error parsing date for SFI urges govt. to drop plans to privatise medical colleges: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,457 - ERROR - Error parsing date for Top news of the day: GDP growth in 2024-25 slowest since pandemic year; IMD declares red alert in 8 of 14 Kerala districts, and more: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,460 - ERROR - Error parsing date for TMC condemns 'derogatory' language used by its leader Anubrata Mondal: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,465 - ERROR - Error parsing date for Bar design | under the hood of 5 cocktail dens in India: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,469 - ERROR - Error parsing date for Practising yoga daily is vital for physical and mental health, says Chittoor District Collector: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,474 - ERROR - Error parsing date for Coimbatore Corporation issues work orders to re-lay over 2,500 roads: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,476 - ERROR - Error parsing date for 3.39 lakh tourists visit Yercaud for summer festival: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,484 - ERROR - Error parsing date for School student dies during football practice session in Coimbatore: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,487 - ERROR - Error parsing date for One killed, four others injured as car overturns after hitting median in Annamayya district: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,490 - ERROR - Error parsing date for KRV activists stage protest slamming Kamal Haasan for his remarks on Kannada: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,495 - ERROR - Error parsing date for Coimbatore North Revenue Divisional Officer transferred: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,505 - ERROR - Error parsing date for Security alert at Udyog Bhawan after Ministry of Heavy Industries receive bomb threat via e-mail: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,509 - ERROR - Error parsing date for At least 88 people dead after floods submerge market town in Nigeria: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,512 - ERROR - Error parsing date for BJP trashes reports of distributing vermilion, slams Mamata's choice of words against PM Modi: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,518 - ERROR - Error parsing date for Demystifying DOGE: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,523 - ERROR - Error parsing date for Kochi shipwreck: CM Stalin holds review meeting on environmental impact along T.N. coast: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,526 - ERROR - Error parsing date for Densetsu, Akitania, Sir Winston and Elysium impress: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,534 - ERROR - Error parsing date for Desilting work, pest attack on palm trees dominate monthly meeting in Thanjavur: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,537 - ERROR - Error parsing date for Fashion-forward villas in demand: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,540 - ERROR - Error parsing date for Tiruchi Corporation renames road in Karumandapam after poet Nandalala: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,545 - ERROR - Error parsing date for Children with mothers suffering from domestic violence prone to mental health issues, study says: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,548 - ERROR - Error parsing date for IPL 2025, GT vs MI Eliminator LIVE: Mumbai Indians wins toss, elect to bat first: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,551 - ERROR - Error parsing date for France to ban smoking at beaches, parks and outside schools to protect children: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,555 - ERROR - Error parsing date for Russian captain involved in U.S. tanker crash pleads not guilty to manslaughter in U.K. court: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,558 - ERROR - Error parsing date for Daily Quiz | On the monsoons: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,562 - ERROR - Error parsing date for Isolated incidents should not tarnish Meghalaya’s image: Tourism Minister: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,567 - ERROR - Error parsing date for Follow in the steps of Elvis Presley and Taylor Swift on a road trip through Memphis and Nashville: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,572 - ERROR - Error parsing date for Assam arms licence policy recipe for communal violence: Akhil Gogoi: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,586 - ERROR - Error parsing date for GDP growth slows to 6.5% in 2024-25, slowest since the pandemic: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,589 - ERROR - Error parsing date for Rupee falls 8 paise to settle at 85.56 against U.S. dollar: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,592 - ERROR - Error parsing date for Pakistan enacts law to curb child marriages: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,595 - ERROR - Error parsing date for Penalise shops without Tamil nameboards, says Puducherry BJP leader: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,598 - ERROR - Error parsing date for ‘Karate Kid: Legends’ movie review: Jackie Chan and Ben Wang star in sweet, ‘80s-style martial arts drama: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,603 - ERROR - Error parsing date for Sensex declines 182 points on losses in IT, metal shares, sluggish Asian peers: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,606 - ERROR - Error parsing date for Anti-dam protests spread in Arunachal Pradesh; villagers point to potential submergence of sacred Mishmi tribal cultural: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,608 - ERROR - Error parsing date for BJP protests decision to close Jan Aushadhi Kendras at government hospitals in Karnataka: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,611 - ERROR - Error parsing date for PM Modi kept mum over issues plaguing Bihar: Tejashwi Yadav: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,616 - ERROR - Error parsing date for Russell Brand pleads not guilty to charges of rape and sexual assault in London court: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:18,621 - INFO - Fetched 100 articles from The Hindu (India)
+2025-05-30 19:43:18,739 - INFO - Fetched 24 articles from France 24 (France)
+2025-05-30 19:43:18,770 - ERROR - Failed to fetch https://www.news24.com/news24/rss for News24 (South Africa): 403 Client Error: Forbidden for url: https://www.news24.com/news24/rss
+2025-05-30 19:43:18,862 - INFO - Fetched 10 articles from Deutsche Welle (Germany)
+2025-05-30 19:43:18,998 - WARNING - No entries found for The Korea Herald (South Korea)
+2025-05-30 19:43:19,026 - ERROR - Historical scrape error for https://www.cnn.com/2023/01/31/tennis/atp-alexander-zverev-domestic-abuse-spt-intl/index.html: Couldn't find a tree builder with the features you requested: summary. Do you need to install a parser library?
+2025-05-30 19:43:19,257 - ERROR - Error parsing date for In Gaza’s Emaciated Children, a Hunger Crisis Is Laid Bare: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,261 - ERROR - Error parsing date for 200 Miles of Sublime Pain on a Hindu Pilgrimage in Pakistan: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,266 - ERROR - Error parsing date for A Library on the Canada-U.S.Border Is Ensnared by Trump’s Foreign Policy: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,270 - ERROR - Error parsing date for How White South Africans Are Convincing the U.S. to Accept Them as Refugees: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,274 - ERROR - Error parsing date for Ukraine Accuses Russia of Stalling Peace Negotiations: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,277 - ERROR - Error parsing date for Israel Orders Evacuation of Much of Northern Gaza, Warning of Dangerous Combat: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,280 - ERROR - Error parsing date for A Ukrainian Girl Struggles to Survive Her Country’s War and Her Own: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,290 - ERROR - Error parsing date for Paul Doyle, 53, Appears in Court Over Liverpool Parade Car Crash: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,300 - ERROR - Error parsing date for In South Korea, Desperate Workers Take Their Grievances Into the Sky: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,304 - ERROR - Error parsing date for Why Myanmar Rebels Retreated From Lashio: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,308 - ERROR - Error parsing date for How China Uses Work to Reshape Uyghur Identity and Control a Strategic Region: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,313 - ERROR - Error parsing date for Chinese Students Are Frustrated With Trump’s Visa Bans: ‘What Now?’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,318 - ERROR - Error parsing date for An Ex-Convict and Cartel Lawyers Are Among Mexico’s Judicial Candidates: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,322 - ERROR - Error parsing date for Landslide at Quarry in Indonesia Kills at Least 10: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,326 - ERROR - Error parsing date for Haribo Recalls Cola Candy in the Netherlands After Cannabis Is Found: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,330 - ERROR - Error parsing date for Trump Accuses China of Violating Trade Agreement: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,334 - ERROR - Error parsing date for Friday Briefing: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,337 - ERROR - Error parsing date for Chinese Paraglider Reaches Near-Record Heights, Over 28,000 Feet, by Accident: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,344 - ERROR - Error parsing date for South African Woman Sentenced to Life in Prison for Trafficking Missing Daughter, 6: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,347 - ERROR - Error parsing date for Tariff Rulings Inject New Uncertainty Into Trump Trade Strategy: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,351 - ERROR - Error parsing date for Trump Administration Targets Brazilian Judge for “Censorship”: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,357 - ERROR - Error parsing date for Trump Makes a New Push to ‘Decouple’ U.S. From China: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,361 - ERROR - Error parsing date for Friday Briefing: Trump Battles the Court: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,364 - ERROR - Error parsing date for White House Puts Cease-Fire Proposal to Hamas as Pressure on Israel Grows: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,367 - ERROR - Error parsing date for Some Glaciers Will Vanish No Matter What, Study Finds: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,372 - ERROR - Error parsing date for New U.S. Envoy Makes First and Symbolic Trip to Syria: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,376 - ERROR - Error parsing date for British Man Faces 7 Charges Over Liverpool Parade Car Crash: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,381 - ERROR - Error parsing date for Court Tariffs Ruling Upends Trump’s Trade Strategy: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,385 - ERROR - Error parsing date for New Aid Site in Gaza Brings More Scenes of Chaos: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,388 - ERROR - Error parsing date for Canada Wildfires Prompt State of Emergency in Manitoba and Force Evacuations: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,392 - ERROR - Error parsing date for After Court Blocks Trump’s Tariffs, America’s Trading Partners Weigh Next Moves: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,398 - ERROR - Error parsing date for Trump’s Embrace of Putin Shows Few Results: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,401 - ERROR - Error parsing date for Russia Appears to Launch New Offensive in Ukraine Amid Peace Talks: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,404 - ERROR - Error parsing date for Will Charleston’s Climate Lawsuit Survive the Week?: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,408 - ERROR - Error parsing date for Mexico’s Judicial Election: What to Know: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,412 - ERROR - Error parsing date for Four Killed as South Korean Navy Airplane Crashes Into Hillside: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,415 - ERROR - Error parsing date for Thursday Briefing: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,418 - ERROR - Error parsing date for UK Weighs Sanctions on 2 Israeli Ministers as Gaza Crisis Worsens: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,423 - ERROR - Error parsing date for U.S. Will ‘Aggressively’ Revoke Visas of Chinese Students, Rubio Says: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,430 - ERROR - Error parsing date for U.S. Pauses Exports of Airplane and Semiconductor Technology to China: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,437 - ERROR - Error parsing date for Glacier Collapse in the Swiss Alps Destroys Most of a Village: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,449 - ERROR - Error parsing date for Thursday Briefing: Aid Chaos Grows in Gaza: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,453 - ERROR - Error parsing date for Mount Everest’s Record-Setting Sherpa Sees a Future of Snowless Mountains and Fewer Guides: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,459 - ERROR - Error parsing date for RFK Jr. and Dr. Oz Want Canada to Save Ostriches on Farm With Avian Flu: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,468 - ERROR - Error parsing date for German Court Dismisses Climate Lawsuit Against RWE: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,473 - ERROR - Error parsing date for UK Authorizes Rape and Human Trafficking Charges Against Andrew and Tristan Tate: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,477 - ERROR - Error parsing date for Crime Rings Plotted to Trade Cocaine for Syrian Weapons, Prosecutors Say: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,481 - ERROR - Error parsing date for U.N. Condemns Israel’s New Aid Program in Gaza, After Chaotic Start: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,485 - ERROR - Error parsing date for Japan Welcomes a New Sumo Champ. Surprise: He’s Japanese.: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,490 - ERROR - Error parsing date for Turkey Cracks Down on Fliers Who Stand Up Too Soon, Threatening Fines: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,493 - ERROR - Error parsing date for Israel Strikes Yemen’s Main Airport Again After Houthi Attacks: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,496 - ERROR - Error parsing date for Stalin’s Image Returns to Moscow’s Subway, Honoring a Brutal History: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,500 - ERROR - Error parsing date for Merz Says Germany Will Step Up Ukraine Weapons Support as Zelensky Visits: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,506 - ERROR - Error parsing date for Wednesday Briefing: Chaos at a Gaza Aid Site: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,515 - ERROR - Error parsing date for As Trump Seeks Iran Deal, Israel Again Raises Possible Strikes on Nuclear Sites: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,525 - INFO - Fetched 55 articles from The New York Times (USA)
+2025-05-30 19:43:19,546 - ERROR - Error parsing date for Un tatuaggio elettronico misura lo stress mentale: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,550 - ERROR - Error parsing date for X elimina i messaggi sicuri e prepara una nuova app di chat: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,555 - ERROR - Error parsing date for Dal Cairo a Roma splendono i tesori dei faraoni: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,560 - ERROR - Error parsing date for Al Museo archeologico di Reggio la mostra 'Vietato non toccare': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,565 - ERROR - Error parsing date for Rispetto del mare e filtri solari, i nuovi progetti Shiseido: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,571 - ERROR - Error parsing date for È morto il ragazzino di 13 anni accoltellato a Milano: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,573 - ERROR - Error parsing date for Meloni: 'Nuovo livello di relazioni con l'Asia centrale, Italia apripista': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,577 - ERROR - Error parsing date for I dubbi della Corte di Cassazione sul piano Albania, due rinvii alla Corte Ue: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,590 - ERROR - Error parsing date for Alessio confessa: 'Martina ha rifiutato il mio abbraccio e l'ho colpita di spalle': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,596 - ERROR - Error parsing date for Panetta: 'Incertezza sui dazi, a rischio un punto di Pil mondiale': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,601 - ERROR - Error parsing date for Usa, battaglia giudiziaria sui dazi. Trump attacca la sentenza: 'Orribile': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,606 - ERROR - Error parsing date for Medio Oriente, Ben Gvir: 'Entriamo a Gaza con tutta la forza necessaria': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,610 - ERROR - Failed to fetch https://feeds.elpais.com/rss for El País (Spain): 403 Client Error: Forbidden for url: https://feeds.elpais.com/rss
+2025-05-30 19:43:19,619 - ERROR - Error parsing date for Il Cremlino: 'Vertice con Zelensky e Trump solo dopo risultati': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,627 - ERROR - Error parsing date for Che cosa chiedono i 5 referendum dell'8 e 9 giugno: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,636 - ERROR - Error parsing date for Caritas: 'La cittadinanza in tempi congrui riconosce dignità': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,643 - ERROR - Error parsing date for Alla scoperta The Residence, Yellowjackets e Intrigo internazionale: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,653 - ERROR - Error parsing date for Catania, nave da crociera rompe gli ormeggi per il forte vento: 2 turisti in mare: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,663 - ERROR - Error parsing date for Mattarella nomina 25 nuovi cavalieri del Lavoro: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,669 - ERROR - Error parsing date for Btp Italia, IL tasso annuo definitivo resta all'1,85%: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,680 - ERROR - Error parsing date for Sclerosi multipla, risposte insufficienti per il 78% dei malati: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,685 - ERROR - Error parsing date for Nel weekend primo picco del caldo, previsti 34 gradi: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,694 - ERROR - Error parsing date for Tornare alla vita. Le case rifugio e il racconto di chi è sopravvissuta alla violenza: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,697 - ERROR - Error parsing date for Cina: 'Gli Usa evitino tensioni, basta vendita di armi a Taiwan': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,703 - ERROR - Error parsing date for Il 14% degli adulti fumatori ha una qualche forma di disabilità: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,707 - ERROR - Error parsing date for Esplosione in una casa cantoniera a Empoli, grave un 47enne: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,715 - ERROR - Error parsing date for Premiati in Usa 17 ricercatori italiani per studi sui tumori: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,721 - ERROR - Error parsing date for I reati contro gli animali diventano legge, multe e carcere per chi li abbandona: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,727 - ERROR - Error parsing date for Bianca Balti: 'Senza le pillole salvavita non lavoro': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,739 - INFO - Fetched 28 articles from ANSA (Italy)
+2025-05-30 19:43:19,740 - ERROR - Failed to fetch http://english.ahram.org.eg/RSS.aspx for Ahram Online (Egypt): 403 Client Error: Forbidden for url: http://english.ahram.org.eg/RSS.aspx
+2025-05-30 19:43:19,755 - ERROR - Error parsing date for ISIL (ISIS) launches first attacks against new Syrian government: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,758 - ERROR - Error parsing date for Trump’s Gulf deals and political promises: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,762 - ERROR - Error parsing date for What to know about Mexico’s first-of-its-kind judicial elections: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,765 - ERROR - Error parsing date for Can we reverse the obesity epidemic?: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,771 - ERROR - Error parsing date for Israel forces north Gaza’s last functioning hospital to close: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,775 - ERROR - Error parsing date for Liverpool parade crash driver appears in UK court: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,779 - ERROR - Error parsing date for Flash flooding kills dozens in Nigeria: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,787 - ERROR - Error parsing date for Ukraine yet to commit to new round of Russia talks in Istanbul: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,792 - ERROR - Error parsing date for From Hunter to Hoover: How clemency became a circus: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,797 - ERROR - Error parsing date for Real Madrid announce Alexander-Arnold signing from Liverpool: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,803 - ERROR - Error parsing date for Serbia probes arms to Ukraine after Russia alleges ‘stab in the back’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,810 - ERROR - Error parsing date for Slovakia’s PM slams judge over conviction of central bank boss: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,814 - ERROR - Error parsing date for Knicks-Pacers: Haliburton struggles in Game 5 loss in NBA East finals: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,819 - ERROR - Error parsing date for Exploring Trump’s murky relationship with crypto: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,822 - ERROR - Error parsing date for Israel should feel settlement spread comes at a “big price”: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,827 - ERROR - Error parsing date for Macron threatens sanctions on Israelis over Gaza aid crisis: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,833 - ERROR - Error parsing date for What and when is Hajj? An illustrated guide, answers to 10 common questions: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,845 - ERROR - Error parsing date for Climate change adds extra month of extreme heat for 4bn people: Report: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,849 - ERROR - Error parsing date for RFK Jr ends COVID vaccine recommendation: What do facts say about risks?: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,854 - ERROR - Error parsing date for Sentence for ex-Goldman banker in 1MDB case ‘too short’: Malaysian minister: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,859 - ERROR - Error parsing date for White House to amend flagship health report citing phantom studies: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,883 - ERROR - Error parsing date for High stakes as Poland heads to round two of presidential election: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,886 - ERROR - Error parsing date for Japanese seafood set to return to China after Fukushima wastewater row: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,890 - ERROR - Error parsing date for Death at the cross: Secret burials, ‘cult-like’ practices at Kenyan church: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:19,925 - INFO - Fetched 25 articles from Al Jazeera (Qatar)
+2025-05-30 19:43:20,051 - ERROR - Failed to fetch https://www.eluniversal.com.mx/rss.xml for El Universal (Mexico): 404 Client Error: Not Found for url: https://www.eluniversal.com.mx/rss.xml
+2025-05-30 19:43:20,460 - ERROR - Historical scrape error for https://timesofindia.indiatimes.com/toi/articleshow/121320973.cms: Couldn't find a tree builder with the features you requested: summary. Do you need to install a parser library?
+2025-05-30 19:43:20,539 - ERROR - Failed to fetch https://www1.folha.uol.com.br/internacional/en/rss102.xml for Folha de S.Paulo (Brazil): 404 Client Error: Not Found for url: https://www1.folha.uol.com.br/internacional/en/rss102.xml
+2025-05-30 19:43:20,616 - INFO - Fetched 100 articles from China Daily (China)
+2025-05-30 19:43:20,618 - WARNING - No entries found for Hurriyet Daily News (Turkey)
+2025-05-30 19:43:20,690 - ERROR - Historical scrape error for https://www.aljazeera.com/news/liveblog/2025/5/30/live-israel-forces-new-displacement-in-north-gaza-as-strikes-intensify: Couldn't find a tree builder with the features you requested: summary. Do you need to install a parser library?
+2025-05-30 19:43:21,031 - ERROR - Failed to fetch https://www.lanacion.com.ar/rss/arcio/rss/ for La Nacional (Argentina): 404 Client Error: Not Found for url: https://www.lanacion.com.ar/rss/arcio/rss/
+2025-05-30 19:43:21,485 - ERROR - Error parsing date for Veto ban would spell the end of EU – Fico: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,492 - ERROR - Error parsing date for Elite Western universities are a corrupt, parasitic empire: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,498 - ERROR - Error parsing date for Russian security chief reacts to German missile claims: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,506 - ERROR - Error parsing date for Trump aide caught in impersonation scam – WSJ: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,511 - ERROR - Error parsing date for Trump’s trade war has cost firms $34 billion – Reuters: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,516 - ERROR - Error parsing date for Importing crime: Angela Merkel started the EU’s migrant crisis, and she wants it to continue: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,520 - ERROR - Error parsing date for Pentagon employee arrested for trying to leak secrets over Trump grievances: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,525 - ERROR - Error parsing date for Ukraine trying to trick Trump – Moscow: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,530 - ERROR - Error parsing date for Russia has ‘fair concern’ about NATO expansion – Trump envoy: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,535 - ERROR - Error parsing date for Serbian firms secretly delivering ammunition to Ukraine – Russian spy agency: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,541 - ERROR - Error parsing date for France approves right-to-die law: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,545 - ERROR - Error parsing date for UK to step up cyberattacks on Russia and China – minister: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,550 - ERROR - Error parsing date for Russia prepared to strike Germany if Taurus missiles are used – senior MP: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,555 - ERROR - Error parsing date for Israel and Hamas agree to Gaza ceasefire proposal – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,560 - ERROR - Error parsing date for Immigrant arrested after threatening to kill Trump: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,564 - ERROR - Error parsing date for US court blocks Trump’s tariffs: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,569 - ERROR - Error parsing date for UK unveils bill to stop capital outflow: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,574 - ERROR - Error parsing date for AI CEO issues stark warning: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,578 - ERROR - Error parsing date for Berlin offers Kiev another €5 billion: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,583 - ERROR - Error parsing date for How to start a war with Russia in these easy steps: Just ask Merz’s Germany: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,588 - ERROR - Error parsing date for CIA running out of international informants and spies – WaPo: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,592 - ERROR - Error parsing date for Ukraine needed Western help to target Putin’s helicopter – Scott Ritter: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,597 - ERROR - Error parsing date for Lavrov briefs Rubio on Ukraine negotiations: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,602 - ERROR - Error parsing date for Musk stepping down as special government employee: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,608 - ERROR - Error parsing date for UK charges Tate brothers with human trafficking and rape: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,613 - ERROR - Error parsing date for UK eyeing permanent Arctic military presence – Telegraph: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,618 - ERROR - Error parsing date for Germany ‘sliding down to collapse’ – Lavrov: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,624 - ERROR - Error parsing date for US ready to apply ‘maximum pressure’ on Russia – State Dept: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,628 - ERROR - Error parsing date for Merz vows to block Nord Stream 2: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,636 - ERROR - Error parsing date for Kremlin responds to Germany’s long-range missile pledge to Ukraine: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,643 - ERROR - Error parsing date for Germany to deny Ukraine’s request for Taurus missiles – Bild: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,648 - ERROR - Error parsing date for Macron has been slapped in the face in more ways than one: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,652 - ERROR - Error parsing date for US lawmakers want Soros-linked Polish election ‘violations’ addressed: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,657 - ERROR - Error parsing date for Netanyahu calls NYT report on Iran strike plans ‘fake news’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,662 - ERROR - Error parsing date for This nation is looking to become NATO’s war machine. What will Russia do?: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,667 - ERROR - Error parsing date for EU to call on members to reduce water consumption – FT: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,671 - ERROR - Error parsing date for The slap in Hanoi: Why we should sympathize with Macron: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,675 - ERROR - Error parsing date for EU has isolated itself, not Russia – Luxembourg MEP: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,684 - ERROR - Error parsing date for EU state blasts Germany over Russia threats: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,695 - ERROR - Error parsing date for Musk ‘disappointed’ by Trump’s ‘Big Beautiful Bill’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,702 - ERROR - Error parsing date for Trump’s Ukraine envoy condemns Medvedev’s ‘reckless’ WW3 comment: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,709 - ERROR - Error parsing date for Police respond to shooting at US mall: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,715 - ERROR - Error parsing date for EU state calls for Schengen ban on Russians: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,720 - ERROR - Error parsing date for Putin ‘playing with fire’ – Trump: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,724 - ERROR - Error parsing date for EU state sues Belarus for €200mn: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,730 - ERROR - Error parsing date for EU sanctions against Russia don’t work – Bild: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,735 - ERROR - Error parsing date for US blocks tougher G7 sanctions wording on Russia – FT: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,739 - ERROR - Error parsing date for Putin to visit China for WWII victory in Asia celebrations – Shoigu: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,745 - ERROR - Error parsing date for Germany risks becoming a target for Russia – for the first time since Hitler: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,752 - ERROR - Error parsing date for EU adopts €150 billion defense debt plan: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,759 - ERROR - Error parsing date for Germany threatens EU states with loss of funding: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,763 - ERROR - Error parsing date for EU state follows through on LGBTQ parade ban promise: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,768 - ERROR - Error parsing date for Banned ex-Romanian presidential front-runner quits politics: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,775 - ERROR - Error parsing date for Greenland eyes Chinese investment amid ‘new world order’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,781 - ERROR - Error parsing date for Türkiye ready to host next round of Ukraine peace talks: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,786 - ERROR - Error parsing date for NATO chief fears Trump-Zelensky conflict could derail summit – NYT: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,794 - ERROR - Error parsing date for German officials reveal major change to Russia sanctions enforcement – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,800 - ERROR - Error parsing date for US senator pushes mega-tariffs on Russia’s partners: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,806 - ERROR - Error parsing date for Trump’s ‘Golden Dome’ plan will ignite nuclear arms race – North Korea: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,813 - ERROR - Error parsing date for Trump could exit Ukraine talks – NYT: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,818 - ERROR - Error parsing date for Liverpool ramming not being treated as terrorism – police: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,823 - ERROR - Error parsing date for Passport to nowhere: Team Trump’s new deportation game show: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,827 - ERROR - Error parsing date for Macron explains slap from wife: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,831 - ERROR - Error parsing date for US troop withdrawal from Europe expected in ‘coming months’ – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,837 - ERROR - Error parsing date for Car plows into crowd at Liverpool football celebrations (VIDEOS): can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,841 - ERROR - Error parsing date for German bank restricts ex-chancellor’s account over sanctions fears – Bild: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,847 - ERROR - Error parsing date for Israel and Ukraine fighting ‘proxy wars’ for the West – UK Tory leader: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,852 - ERROR - Error parsing date for Kremlin reacts to West lifting limits on long-range weapons for Ukraine: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,858 - ERROR - Error parsing date for Ukraine can strike deep inside Russia using German weapons – Merz: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,865 - ERROR - Error parsing date for Ukraine will have to pay for new Patriots – WaPo: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,871 - ERROR - Error parsing date for Poland wants to ‘earn big money’ on Ukraine – Tusk: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,876 - ERROR - Error parsing date for EU could end protections for Ukrainian immigrants – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,881 - ERROR - Error parsing date for Germany arming for possible conflict with Russia – Reuters: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,885 - ERROR - Error parsing date for US interfering in UK’s internal affairs – Telegraph: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,889 - ERROR - Error parsing date for ‘Everything out of Zelensky’s mouth causes problems’ – Trump: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,894 - ERROR - Error parsing date for Trump claims Putin ‘has gone absolutely crazy for no reason’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,900 - ERROR - Error parsing date for Top Russian MP advises Telegram’s Durov to leave France: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,906 - ERROR - Error parsing date for Amazon tribe sues NYT over ‘porn addicts’ claim – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,912 - ERROR - Error parsing date for EU could be ‘destroyed’ – Merkel: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,918 - ERROR - Error parsing date for German politician urges talks on restoring Nord Stream: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,924 - ERROR - Error parsing date for German e-mobility association files for bankruptcy – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,929 - ERROR - Error parsing date for US de facto financing persecution of Christians in Ukraine – Tucker Carlson: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,934 - ERROR - Error parsing date for The idea of ‘Eurasia’ is much more viable than ‘Europe’ – here’s why: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,938 - ERROR - Error parsing date for Trump’s tariff threat could cost Germany €200 billion – study: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,943 - ERROR - Error parsing date for Western Europe considers buying US arms for Ukraine – Bloomberg: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,949 - ERROR - Error parsing date for Biden appears in public after cancer diagnosis announcement (VIDEO): can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,954 - ERROR - Error parsing date for Romanian presidential candidate calls for protests without Ukraine-style ‘bloodbath’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,960 - ERROR - Error parsing date for German defense minister teases possible conscription in 2026: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,966 - ERROR - Error parsing date for Slovak party to demand Ukraine compensate aid: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,971 - ERROR - Error parsing date for US ‘learning’ from Ukraine conflict – Trump: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,975 - ERROR - Error parsing date for Hack fest in Moscow sparks BRICS cyber ties: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,980 - ERROR - Error parsing date for AI hallucinations: a budding sentience or a global embarrassment?: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,987 - ERROR - Error parsing date for Paris arrested Telegram founder to meddle in Romanian election — Moscow: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,992 - ERROR - Error parsing date for Trump ‘gutting the Deep State’ inside National Security Council – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:21,996 - ERROR - Error parsing date for US moves to implement Trump’s ‘vision’ for Syria: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:22,001 - ERROR - Error parsing date for Former Yanukovich presidential adviser visited Kiev days before assassination – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:22,009 - ERROR - Error parsing date for ‘Era of uncontested US dominance over’ – Vance: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:22,016 - ERROR - Error parsing date for Multiple injured in stabbing attack in Germany: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:22,020 - ERROR - Error parsing date for US firms explore reboot of Germany’s nuclear plants – Bild: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:22,025 - ERROR - Error parsing date for Russia and the Arab League can reshape the world together: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:43:22,029 - INFO - Fetched 100 articles from RT (Russia)
+2025-05-30 19:43:23,617 - ERROR - Failed to fetch https://www.straitstimes.com/rss/latest-news for The Straits Times (Singapore): HTTPSConnectionPool(host='www.straitstimes.com', port=443): Max retries exceeded with url: /rss/latest-news (Caused by ResponseError('too many 500 error responses'))
+2025-05-30 19:43:30,324 - ERROR - Failed to fetch https://punchng.com/feed for The Punch (Nigeria): HTTPSConnectionPool(host='rss.punchng.com', port=443): Max retries exceeded with url: /v1/category/latest_news (Caused by ResponseError('too many 500 error responses'))
+2025-05-30 19:43:30,326 - INFO - Total articles fetched: 644
+2025-05-30 19:43:30,348 - INFO - Removed 59 duplicates
+2025-05-30 19:43:30,372 - INFO - Saved to downloads\news_data.csv
+2025-05-30 19:43:30,382 - INFO - Saved to downloads\news_data.json
+2025-05-30 19:43:33,793 - INFO - Saved data to database
+2025-05-30 19:43:33,793 - INFO - Scheduled scraping completed
+2025-05-30 19:46:13,259 - INFO - Database setup completed
+2025-05-30 19:46:13,282 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-30 19:46:13,282 - INFO - Added job "NewsScraper.run_scrape" to job store "default"
+2025-05-30 19:46:13,282 - INFO - Scheduler started
+2025-05-30 19:46:13,284 - INFO - Scheduler started for scraping every 4 hours
+2025-05-30 19:46:13,565 - ERROR - Error parsing date for In Gaza’s Emaciated Children, a Hunger Crisis Is Laid Bare: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,566 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:46:13,567 - ERROR - Error parsing date for 200 Miles of Sublime Pain on a Hindu Pilgrimage in Pakistan: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,567 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:46:13,570 - ERROR - Error parsing date for A Library on the Canada-U.S.Border Is Ensnared by Trump’s Foreign Policy: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,570 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:46:13,571 - ERROR - Error parsing date for How White South Africans Are Convincing the U.S. to Accept Them as Refugees: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,571 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:46:13,573 - ERROR - Error parsing date for Ukraine Accuses Russia of Stalling Peace Negotiations: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,573 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:46:13,573 - ERROR - Error parsing date for Israel Orders Evacuation of Much of Northern Gaza, Warning of Dangerous Combat: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,574 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:46:13,575 - ERROR - Error parsing date for A Ukrainian Girl Struggles to Survive Her Country’s War and Her Own: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,575 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:46:13,576 - ERROR - Error parsing date for Paul Doyle, 53, Appears in Court Over Liverpool Parade Car Crash: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,577 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:46:13,577 - ERROR - Error parsing date for In South Korea, Desperate Workers Take Their Grievances Into the Sky: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,578 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:46:13,578 - ERROR - Error parsing date for Why Myanmar Rebels Retreated From Lashio: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,579 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:46:13,579 - ERROR - Error parsing date for How China Uses Work to Reshape Uyghur Identity and Control a Strategic Region: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,579 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:46:13,580 - ERROR - Error parsing date for Chinese Students Are Frustrated With Trump’s Visa Bans: ‘What Now?’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,580 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:46:13,581 - ERROR - Error parsing date for An Ex-Convict and Cartel Lawyers Are Among Mexico’s Judicial Candidates: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,581 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:46:13,581 - ERROR - Error parsing date for Landslide at Quarry in Indonesia Kills at Least 10: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,581 - ERROR - Language detection error: Need to load profiles.
+2025-05-30 19:46:13,607 - ERROR - Error parsing date for From students to tech: How US-China ties are sliding despite tariff truce: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,609 - ERROR - Error parsing date for Haribo Recalls Cola Candy in the Netherlands After Cannabis Is Found: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,610 - ERROR - Error parsing date for ISIL (ISIS) launches first attacks against new Syrian government: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,617 - ERROR - Error parsing date for Trump Accuses China of Violating Trade Agreement: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,619 - ERROR - Error parsing date for Trump’s Gulf deals and political promises: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,620 - ERROR - Error parsing date for Friday Briefing: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,622 - ERROR - Error parsing date for What to know about Mexico’s first-of-its-kind judicial elections: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,622 - ERROR - Error parsing date for Chinese Paraglider Reaches Near-Record Heights, Over 28,000 Feet, by Accident: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,638 - ERROR - Error parsing date for Can we reverse the obesity epidemic?: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,640 - ERROR - Error parsing date for South African Woman Sentenced to Life in Prison for Trafficking Missing Daughter, 6: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,674 - ERROR - Error parsing date for Israel forces north Gaza’s last functioning hospital to close: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,678 - ERROR - Error parsing date for 'No more nice guy': Trump reignites trade tensions, warns China on tariff deal: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,680 - ERROR - Error parsing date for Tariff Rulings Inject New Uncertainty Into Trump Trade Strategy: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,681 - ERROR - Error parsing date for Liverpool parade crash driver appears in UK court: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,682 - ERROR - Error parsing date for US, QUAD nations trying to force India into military alliance, not just trade: Russia: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,684 - ERROR - Error parsing date for Trump Administration Targets Brazilian Judge for “Censorship”: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,685 - ERROR - Error parsing date for Flash flooding kills dozens in Nigeria: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,707 - ERROR - Error parsing date for Hardik Pandya includes 150kph rocket vs Gujarat Titans: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,709 - ERROR - Error parsing date for Trump Makes a New Push to ‘Decouple’ U.S. From China: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,711 - ERROR - Error parsing date for Ukraine yet to commit to new round of Russia talks in Istanbul: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,715 - ERROR - Error parsing date for Jihadi content, madrasa attack & murders: Inside Bengal engineer’s 'terror trail': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,719 - ERROR - Error parsing date for Friday Briefing: Trump Battles the Court: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,722 - ERROR - Error parsing date for From Hunter to Hoover: How clemency became a circus: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,758 - ERROR - Error parsing date for Satya Nadella to employees in Town Hall: 6000 job cuts were related to…: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,775 - ERROR - Error parsing date for White House Puts Cease-Fire Proposal to Hamas as Pressure on Israel Grows: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,788 - ERROR - Error parsing date for Real Madrid announce Alexander-Arnold signing from Liverpool: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,807 - ERROR - Error parsing date for Kerala High Court orders payment of pension, allowances to Ciza Thomas: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,812 - ERROR - Error parsing date for \u8d64\u6fa4\u7d4c\u6e08\u518d\u751f\u76f8 \u7c73\u8ca1\u52d9\u9577\u5b98\u3089\u3068\u95a2\u7a0e\u63aa\u7f6e\u3081\u3050\u308b\u95a3\u50da\u4ea4\u6e09\u59cb\u307e\u308b: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,829 - ERROR - Error parsing date for Inside story of Elon Musk's drug use: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,830 - ERROR - Historical scrape error for https://www.bbc.com/news/articles/cp00jze920eo: Couldn't find a tree builder with the features you requested: summary. Do you need to install a parser library?
+2025-05-30 19:46:13,839 - ERROR - Error parsing date for Some Glaciers Will Vanish No Matter What, Study Finds: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,847 - ERROR - Error parsing date for Serbia probes arms to Ukraine after Russia alleges ‘stab in the back’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,854 - ERROR - Error parsing date for ICAR-CIFT, Heal Ponnurunni Society sign pact: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,860 - ERROR - Error parsing date for \u5099\u84c4\u7c73\u58f2\u308a\u6e21\u3057 \u4e2d\u5c0f\u5c0f\u58f2\u696d\u8005\u306a\u3069\u306e\u7533\u8acb \u53d7\u3051\u4ed8\u3051\u59cb\u307e\u308b: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,870 - ERROR - Error parsing date for 'Incapable of waging war': Shah lauds BSF for destroying Pak's communication system: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,882 - ERROR - Error parsing date for New U.S. Envoy Makes First and Symbolic Trip to Syria: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,889 - ERROR - Failed to fetch https://www.japantimes.co.jp/feed/top for The Japan Times (Japan): 404 Client Error: Not Found for url: https://www.japantimes.co.jp/feed/top/
+2025-05-30 19:46:13,908 - ERROR - Error parsing date for Slovakia’s PM slams judge over conviction of central bank boss: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,932 - ERROR - Error parsing date for Trainer aircraft overturns on runway in Madhya Pradesh's Seoni, woman pilot safe: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,943 - ERROR - Error parsing date for \u4e2d\u56fd \u65e5\u672c\u7523\u6c34\u7523\u7269\u306e\u8f38\u5165 10\u90fd\u770c\u3092\u9664\u304d\u518d\u958b\u3078: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:13,980 - ERROR - Error parsing date for Microsoft exec has a message for coders, after it laid off over 2k software engineers: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,105 - ERROR - Error parsing date for British Man Faces 7 Charges Over Liverpool Parade Car Crash: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,162 - ERROR - Error parsing date for Knicks-Pacers: Haliburton struggles in Game 5 loss in NBA East finals: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,206 - ERROR - Error parsing date for LDF accuses UDF of cobbling together a rainbow coalition of communal forces in Nilambur bypoll: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,229 - INFO - Fetched 35 articles from BBC News (UK)
+2025-05-30 19:46:14,270 - ERROR - Error parsing date for \u30ac\u30bd\u30ea\u30f3\u7a0e\u66ab\u5b9a\u7a0e\u7387 \u5ec3\u6b62\u6cd5\u6848\u306e\u5171\u540c\u63d0\u51fa \u81ea\u516c“\u5fdc\u3058\u3089\u308c\u306a\u3044”: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,290 - ERROR - Error parsing date for What PM Modi told kin of Pahalgam attack victim Shubham Dwivedi: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,300 - ERROR - Error parsing date for Court Tariffs Ruling Upends Trump’s Trade Strategy: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,329 - ERROR - Error parsing date for Exploring Trump’s murky relationship with crypto: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,361 - ERROR - Error parsing date for Tribal communities stage protest demanding inclusion in the Scheduled Tribes category in the U.T.: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,482 - INFO - Fetched 50 articles from CNN (USA)
+2025-05-30 19:46:14,493 - ERROR - Error parsing date for \u5927\u6210\u5efa\u8a2d\u793e\u54e14\u4eba \u5efa\u8a2d\u4e2d\u30d3\u30eb\u306e\u65bd\u5de5\u4e0d\u826f\u77e5\u308a\u516c\u8868\u524d\u306b\u81ea\u793e\u682a\u58f2\u5374: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,518 - ERROR - Error parsing date for DGCA grants IndiGo 3-month extension on Turkish airlines wet lease agreement: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,535 - ERROR - Error parsing date for New Aid Site in Gaza Brings More Scenes of Chaos: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,554 - ERROR - Error parsing date for Israel should feel settlement spread comes at a “big price”: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,559 - ERROR - Error parsing date for Vehicle falls into river in Sikkim, Odisha BJP leader among 9 missing: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,574 - ERROR - Error parsing date for \u629c\u6b6f\u6cbb\u7642\u5f8c\u306e17\u6b73\u6b7b\u4ea1\u3067\u66f8\u985e\u9001\u691c\u306e\u6b6f\u79d1\u533b\u5e2b\u3089\u4e0d\u8d77\u8a34 \u5927\u962a\u5730\u691c: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,583 - ERROR - Error parsing date for Stephen Miller's wife Katie Miller is following Elon Musk 'full time': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,595 - ERROR - Error parsing date for Canada Wildfires Prompt State of Emergency in Manitoba and Force Evacuations: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,603 - ERROR - Error parsing date for Macron threatens sanctions on Israelis over Gaza aid crisis: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,608 - ERROR - Error parsing date for Moonwalk movie review: A heartfelt tribute to the breakdancing subculture: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,609 - ERROR - Failed to fetch https://www.thestar.com.my/rss for The Star (Malaysia): 404 Client Error: Not Found for url: https://www.thestar.com.my/rss
+2025-05-30 19:46:14,622 - ERROR - Error parsing date for \u77f3\u7834\u9996\u76f8 \u30ab\u30f3\u30dc\u30b8\u30a2\u9996\u76f8\u3068\u4f1a\u8ac7 \u56fd\u5883\u8d85\u3048\u305f\u72af\u7f6a\u5bfe\u7b56\u3067\u5354\u529b\u4e00\u81f4: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,640 - ERROR - Error parsing date for Which US university has the highest percentage of international students?: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,646 - ERROR - Error parsing date for After Court Blocks Trump’s Tariffs, America’s Trading Partners Weigh Next Moves: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,667 - ERROR - Error parsing date for What and when is Hajj? An illustrated guide, answers to 10 common questions: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,675 - ERROR - Error parsing date for 17 Maoist cadres, militia members from Chhattisgarh’s strife- torn south Bastar region surrender before police in Telangana: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,691 - INFO - Fetched 7 articles from NHK (Japan)
+2025-05-30 19:46:14,730 - ERROR - Error parsing date for BPSC 2025: Notification for DSO/AD posts released; applications open from June 3: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,740 - ERROR - Error parsing date for Trump’s Embrace of Putin Shows Few Results: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,749 - ERROR - Error parsing date for Climate change adds extra month of extreme heat for 4bn people: Report: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,755 - ERROR - Error parsing date for Take steps for protection of wetlands, officials of Annamayya district told: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,770 - ERROR - Error parsing date for Revised Canadian policy eases job transitions for foreign workers: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,774 - ERROR - Error parsing date for Russia Appears to Launch New Offensive in Ukraine Amid Peace Talks: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,785 - ERROR - Error parsing date for RFK Jr ends COVID vaccine recommendation: What do facts say about risks?: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,790 - ERROR - Error parsing date for Facial recognition devices for Cheyutha pensions: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,801 - ERROR - Error parsing date for India’s Q4 GDP growth beats estimates at 7.4% - Top points: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,812 - ERROR - Error parsing date for Will Charleston’s Climate Lawsuit Survive the Week?: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,822 - ERROR - Error parsing date for Sentence for ex-Goldman banker in 1MDB case ‘too short’: Malaysian minister: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,831 - ERROR - Error parsing date for Goa Challengers begins its quest for hat-trick of titles: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,844 - ERROR - Error parsing date for K Kavitha or KTR? BRS caught in ‘succession’ crossfire: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,849 - ERROR - Error parsing date for Mexico’s Judicial Election: What to Know: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,859 - ERROR - Error parsing date for White House to amend flagship health report citing phantom studies: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,862 - ERROR - Error parsing date for IRCS urges people in Vizianagaram to donate blood amid summer shortages: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:14,951 - ERROR - Failed to fetch https://www.thejakartapost.com/feed for Jakarta Post (Indonesia): 404 Client Error: Not Found for url: https://www.thejakartapost.com/feed
+2025-05-30 19:46:15,012 - ERROR - Error parsing date for WWE SmackDown preview: Full match card, confirmed segments, how to watch and more: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:15,012 - ERROR - Historical scrape error for https://www.cnn.com/2023/01/31/tennis/atp-alexander-zverev-domestic-abuse-spt-intl/index.html: Couldn't find a tree builder with the features you requested: summary. Do you need to install a parser library?
+2025-05-30 19:46:15,022 - ERROR - Error parsing date for Four Killed as South Korean Navy Airplane Crashes Into Hillside: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:15,030 - ERROR - Error parsing date for High stakes as Poland heads to round two of presidential election: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:15,044 - ERROR - Error parsing date for Congress leader Baba Fasiuddin, wife and others booked for the death of BRS party worker: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:15,200 - ERROR - Error parsing date for Who is Xi Jinping's daughter Xi Mingze? Will she be deported from US?: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:15,203 - ERROR - Failed to fetch https://www.abc.net.au/news/feed for ABC News (Australia): 404 Client Error: Not Found for url: https://www.abc.net.au/news/feed
+2025-05-30 19:46:15,291 - ERROR - Error parsing date for Thursday Briefing: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:15,336 - ERROR - Error parsing date for Japanese seafood set to return to China after Fukushima wastewater row: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:15,401 - ERROR - Error parsing date for Thamarassery diocese launches campaign to promote source-level waste management: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:15,431 - ERROR - Error parsing date for 'More famous now': Pahalgam terror attack plotter at Lahore rally: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:15,496 - ERROR - Error parsing date for UK Weighs Sanctions on 2 Israeli Ministers as Gaza Crisis Worsens: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:15,545 - ERROR - Error parsing date for Death at the cross: Secret burials, ‘cult-like’ practices at Kenyan church: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:15,590 - ERROR - Error parsing date for Tax official caught while accepting bribe in Vizag: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:15,668 - ERROR - Error parsing date for UN declares Gaza the only region where 100% of population faces famine risk: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:15,715 - ERROR - Error parsing date for U.S. Will ‘Aggressively’ Revoke Visas of Chinese Students, Rubio Says: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:15,794 - INFO - Fetched 25 articles from Al Jazeera (Qatar)
+2025-05-30 19:46:15,854 - ERROR - Error parsing date for Gen AI integrated design programme launched in Mysuru: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:15,907 - ERROR - Error parsing date for 'No country backed India': Cong says BJP’s 'foreign policy failed' post-Op Sindoor: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:16,011 - ERROR - Error parsing date for U.S. Pauses Exports of Airplane and Semiconductor Technology to China: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:16,049 - ERROR - Error parsing date for Tenant farmers plan protests in A.P. on June 9 for ID cards, crop loans: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:16,174 - ERROR - Error parsing date for 'Who is this guy?': Virat Kohli's reaction on Musheer Khan goes viral: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:16,314 - INFO - Fetched 20 articles from CBC News (Canada)
+2025-05-30 19:46:16,322 - ERROR - Error parsing date for Glacier Collapse in the Swiss Alps Destroys Most of a Village: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:16,395 - ERROR - Error parsing date for 20 injured in jallikattu at Palaiyapalayam: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:16,410 - ERROR - Error parsing date for Taylor Swift rumored to join Kelce in Kansas City for star-studded charity weekend: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:16,458 - ERROR - Error parsing date for Thursday Briefing: Aid Chaos Grows in Gaza: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:16,531 - ERROR - Error parsing date for Thirukkural cannot be de-spiritualised under pressure from some ideology, says Governor: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:16,642 - INFO - Fetched 10 articles from Deutsche Welle (Germany)
+2025-05-30 19:46:16,713 - ERROR - Error parsing date for Ankita Bhandari murder: Court sentences ex-BJP minister’s son Pulkit Arya, two aides: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:16,767 - ERROR - Error parsing date for Mount Everest’s Record-Setting Sherpa Sees a Future of Snowless Mountains and Fewer Guides: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:16,796 - ERROR - Historical scrape error for https://timesofindia.indiatimes.com/toi/articleshow/121320973.cms: Couldn't find a tree builder with the features you requested: summary. Do you need to install a parser library?
+2025-05-30 19:46:16,823 - ERROR - Error parsing date for Allocate \u20b9300 crore to purchase produce from tobacco farmers, CPI(M) urges Andhra Pradesh government: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:16,890 - INFO - Fetched 100 articles from China Daily (China)
+2025-05-30 19:46:16,956 - ERROR - Error parsing date for When theatres became temples, and a movie became a marvel: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:16,984 - INFO - Fetched 24 articles from France 24 (France)
+2025-05-30 19:46:16,988 - ERROR - Error parsing date for RFK Jr. and Dr. Oz Want Canada to Save Ostriches on Farm With Avian Flu: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:16,995 - ERROR - Error parsing date for Pakistan PM Sharif rakes up India’s abeyance of Indus Waters Treaty at international platform: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,006 - ERROR - Error parsing date for AIIMS study reveals sharp rise in obesity among private school kids in Delhi: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,012 - ERROR - Error parsing date for German Court Dismisses Climate Lawsuit Against RWE: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,043 - ERROR - Error parsing date for Inclement weather fails to dampen spirits of yoga practitioners; thousands fill streets for Yogandhra-2025: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,066 - ERROR - Error parsing date for Why is Anushka Sharma blamed in defeat but forgotten in victory?: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,077 - WARNING - No entries found for The Korea Herald (South Korea)
+2025-05-30 19:46:17,152 - ERROR - Error parsing date for UK Authorizes Rape and Human Trafficking Charges Against Andrew and Tristan Tate: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,156 - ERROR - Error parsing date for Serve cardholders sincerely, Civil Supplies Minister tells ration dealers in Andhra Pradesh: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,161 - ERROR - Error parsing date for 'This journey will not ... ': Jasprit Bumrah reveals retirement plans: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,167 - ERROR - Failed to fetch https://www.news24.com/news24/rss for News24 (South Africa): 403 Client Error: Forbidden for url: https://www.news24.com/news24/rss
+2025-05-30 19:46:17,171 - ERROR - Error parsing date for Crime Rings Plotted to Trade Cocaine for Syrian Weapons, Prosecutors Say: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,177 - ERROR - Error parsing date for Applications invited for posts in Child Welfare Committees in Erode district: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,185 - ERROR - Error parsing date for Watch: Nitish Kumar's latest 'Vajpayee' gaffe with PM Modi on stage: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,192 - ERROR - Error parsing date for U.N. Condemns Israel’s New Aid Program in Gaza, After Chaotic Start: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,206 - ERROR - Error parsing date for Indian Premier League live score update on SportsCafe: all details and match details: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,215 - ERROR - Error parsing date for Taylor Swift steps out in NYC as fans read into her reaction to AMAs "snub": can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,234 - ERROR - Error parsing date for Water level in Mullaperiyar dam stands at 127.85 feet on May 30, 2025: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,247 - ERROR - Error parsing date for 'Days of broken highways, poor railways history': PM Modi in Bihar: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,248 - ERROR - Error parsing date for Japan Welcomes a New Sumo Champ. Surprise: He’s Japanese.: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,265 - ERROR - Error parsing date for Finance Ministry recommendations on gold loan norms ‘progressive step’: Muthoot Finance MD: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,272 - ERROR - Error parsing date for How history now favours RCB: Qualifier 1 winners have dominated IPL finals: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,275 - ERROR - Error parsing date for Turkey Cracks Down on Fliers Who Stand Up Too Soon, Threatening Fines: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,285 - ERROR - Error parsing date for Here are the big stories from Karnataka today: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,289 - ERROR - Error parsing date for Putin lends his car to Shinzo Abe’s widow for Moscow theatre visit - video: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,293 - ERROR - Error parsing date for Israel Strikes Yemen’s Main Airport Again After Houthi Attacks: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,302 - ERROR - Error parsing date for Flood warning issued to people living downstream of Kabini reservoir: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,312 - ERROR - Error parsing date for Telangana CM Revanth Reddy says 'PoK would be ours if Rahul Gandhi were PM': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,316 - ERROR - Error parsing date for Stalin’s Image Returns to Moscow’s Subway, Honoring a Brutal History: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,320 - ERROR - Error parsing date for GP member held for assaulting vendor in Belagavi district: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,325 - ERROR - Error parsing date for Selfie gone wild: Indian attacked by tiger while posing for photo - watch video: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,333 - ERROR - Error parsing date for Merz Says Germany Will Step Up Ukraine Weapons Support as Zelensky Visits: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,344 - ERROR - Error parsing date for 6,500 Anganwadi centres upgraded to Smart centres across Tamil Nadu, says Minister Geetha Jeevan: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,349 - ERROR - Error parsing date for 'There's a shark in the pond!': 20-foot predator startles Rhode Island diners: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,359 - ERROR - Error parsing date for Wednesday Briefing: Chaos at a Gaza Aid Site: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,370 - ERROR - Error parsing date for Three killed in accident near Annigeri: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,375 - ERROR - Error parsing date for Bureaucrat vs bureaucrat: IRS officer assaulted inside Income Tax office in Lucknow: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,388 - ERROR - Error parsing date for As Trump Seeks Iran Deal, Israel Again Raises Possible Strikes on Nuclear Sites: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,399 - ERROR - Error parsing date for Eshwarappa raises questions about formation of STF and transfer of top police officials from DK: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,410 - ERROR - Error parsing date for Watch: Chief engineer throws bundles of Rs 500 notes from flat during raid: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,421 - INFO - Fetched 55 articles from The New York Times (USA)
+2025-05-30 19:46:17,426 - ERROR - Error parsing date for Fire in plastic shop in Belagavi: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,436 - ERROR - Error parsing date for 'Will apologise only if I am wrong': Kamal Haasan defends 'Kannada from Tamil' remarks: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,441 - ERROR - Error parsing date for VTU Kalaburagi Regional Centre distributes laptops among SC/ST students: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,448 - ERROR - Error parsing date for NEET PG in one shift: SC slams two-shift format as arbitrary and unfair: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,460 - ERROR - Error parsing date for 'Would have been divided into four parts if Navy … ': Rajnath to Pak from INS Vikrant: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,464 - ERROR - Error parsing date for 'Right of self-defence': Tharoor 'disappointed' over Colombia's reaction to Op Sindoor: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,470 - ERROR - Error parsing date for 'It smells horrible': Kasol, once the jewel of Parvati Valley, now a dumping ground: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,483 - ERROR - Error parsing date for Village panchayat heads asked to take effective steps to control street dogs population: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,493 - ERROR - Error parsing date for Adulterated toddy racket exposed: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,508 - ERROR - Error parsing date for Watch: Railway employee makes e-rickshaw driver do sit-ups for crossing closed tracks: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,513 - ERROR - Error parsing date for 'Parents need schooling': Kids cry as adults throw punches at each other - watch: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,525 - ERROR - Error parsing date for SW monsoon preparedness meeting held in Krishnagiri: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,526 - INFO - Fetched 45 articles from The Times of India (India)
+2025-05-30 19:46:17,540 - ERROR - Error parsing date for Cumulative rainfall for May higher than normal in South-interior Karnataka: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,544 - ERROR - Error parsing date for Two drown while fishing in Kottayam: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,547 - ERROR - Error parsing date for INA holds 25th convocation ceremony at Ezhimala: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,553 - ERROR - Error parsing date for Enrolment goes up in Telangana but learning outcomes and jobs remain a concern, finds survey: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,558 - ERROR - Error parsing date for Need to align schemes with NITI Aayog’s SDGs, says Lanka Dinakar: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,562 - ERROR - Error parsing date for YRF unveils teaser of romantic drama ‘Saiyaara’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,567 - ERROR - Error parsing date for Back-to-back protests against the Waqf Act: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,570 - ERROR - Error parsing date for New SPs take charge in Dakshina Kannada, Udupi: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,574 - ERROR - Error parsing date for MP’s plea to give up plans to merge Anna University’s Regional Office with Tirunelveli Government Engineering College: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,578 - ERROR - Error parsing date for Kalaburagi district receives four Praja Soudhas: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,595 - ERROR - Error parsing date for Relentless showers lead to copious inflow to reservoirs: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,599 - ERROR - Error parsing date for Asian Championships | Gulveer completes a double; Pooja, Nandini too corner glory: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,602 - ERROR - Error parsing date for Campaign aiming for planning for Kharif season 2025 begins: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,607 - ERROR - Error parsing date for Palaniswami calls for exempting all gold loans from RBI’s proposed norms: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,611 - ERROR - Error parsing date for Telangana police gear up to prevent communal tensions ahead of Bakrid: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,622 - ERROR - Error parsing date for Speaker, Minister disburse \u20b912.68-crore worth welfare assistance: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,626 - ERROR - Error parsing date for BJP demands removal of Dinesh Gundu Rao as Minister in charge of Dakshina Kannada: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,632 - ERROR - Error parsing date for BSF troops foil Pakistani intruder's attempt to cross the International Border in Pathankot: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,638 - ERROR - Error parsing date for CM to inaugurate regional-level agricultural exhibition near Perundurai on June 11: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,663 - ERROR - Error parsing date for Stalin condoles death of Vaiko’s sister Saroja, Justice Pon. Bhaskaran: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,667 - ERROR - Error parsing date for ISO 9001:2015 certification for TG Industries Commissionerate: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,673 - ERROR - Error parsing date for Minister inaugurates Centrally-funded Common Incubation Centre for coconut value-addition at TNAU: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,686 - ERROR - Error parsing date for Farmers demand timely completion of desilting work, disbursement of kuruvai special package: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,692 - ERROR - Error parsing date for Andhra Pradesh DGP Harish Kumar Gupta stresses need for a robust security set-up in Tirumala: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,697 - ERROR - Error parsing date for MDU union’s appeal to Jagan on doorstep ration delivery: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,704 - ERROR - Error parsing date for Raw silk production touches 2,723 metric tonnes in Tamil Nadu, says MSME Minister: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,710 - ERROR - Error parsing date for Anti Tobacco Forum opposes reported launch of nicotine-laced candies, toffees, and ice creams: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,714 - ERROR - Error parsing date for Water level in Papanasam, Manimuthar dams: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,720 - ERROR - Error parsing date for Chairperson of Seventh State Finance Commission calls on Chief Minister Stalin: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,726 - ERROR - Error parsing date for SFI urges govt. to drop plans to privatise medical colleges: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,738 - ERROR - Error parsing date for Top news of the day: GDP growth in 2024-25 slowest since pandemic year; IMD declares red alert in 8 of 14 Kerala districts, and more: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,741 - ERROR - Error parsing date for TMC condemns 'derogatory' language used by its leader Anubrata Mondal: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,745 - ERROR - Error parsing date for Bar design | under the hood of 5 cocktail dens in India: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,748 - ERROR - Error parsing date for Practising yoga daily is vital for physical and mental health, says Chittoor District Collector: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,752 - ERROR - Error parsing date for Coimbatore Corporation issues work orders to re-lay over 2,500 roads: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,757 - ERROR - Error parsing date for 3.39 lakh tourists visit Yercaud for summer festival: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,783 - ERROR - Error parsing date for School student dies during football practice session in Coimbatore: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,787 - ERROR - Error parsing date for One killed, four others injured as car overturns after hitting median in Annamayya district: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,796 - ERROR - Error parsing date for KRV activists stage protest slamming Kamal Haasan for his remarks on Kannada: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,807 - ERROR - Error parsing date for Coimbatore North Revenue Divisional Officer transferred: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,822 - ERROR - Error parsing date for Security alert at Udyog Bhawan after Ministry of Heavy Industries receive bomb threat via e-mail: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,826 - ERROR - Error parsing date for At least 88 people dead after floods submerge market town in Nigeria: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,827 - ERROR - Failed to fetch https://www.eluniversal.com.mx/rss.xml for El Universal (Mexico): 404 Client Error: Not Found for url: https://www.eluniversal.com.mx/rss.xml
+2025-05-30 19:46:17,829 - ERROR - Historical scrape error for https://www.aljazeera.com/news/liveblog/2025/5/30/live-israel-forces-new-displacement-in-north-gaza-as-strikes-intensify: Couldn't find a tree builder with the features you requested: summary. Do you need to install a parser library?
+2025-05-30 19:46:17,840 - ERROR - Error parsing date for BJP trashes reports of distributing vermilion, slams Mamata's choice of words against PM Modi: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,847 - ERROR - Error parsing date for Demystifying DOGE: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,859 - ERROR - Error parsing date for Kochi shipwreck: CM Stalin holds review meeting on environmental impact along T.N. coast: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,863 - ERROR - Error parsing date for Densetsu, Akitania, Sir Winston and Elysium impress: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,879 - ERROR - Error parsing date for Un tatuaggio elettronico misura lo stress mentale: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,892 - ERROR - Error parsing date for Desilting work, pest attack on palm trees dominate monthly meeting in Thanjavur: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,898 - ERROR - Error parsing date for X elimina i messaggi sicuri e prepara una nuova app di chat: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,902 - ERROR - Error parsing date for Dal Cairo a Roma splendono i tesori dei faraoni: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,908 - ERROR - Error parsing date for Al Museo archeologico di Reggio la mostra 'Vietato non toccare': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,914 - ERROR - Error parsing date for Fashion-forward villas in demand: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,918 - ERROR - Error parsing date for Tiruchi Corporation renames road in Karumandapam after poet Nandalala: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,928 - ERROR - Error parsing date for Rispetto del mare e filtri solari, i nuovi progetti Shiseido: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,931 - ERROR - Error parsing date for È morto il ragazzino di 13 anni accoltellato a Milano: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,933 - ERROR - Error parsing date for Meloni: 'Nuovo livello di relazioni con l'Asia centrale, Italia apripista': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,941 - ERROR - Error parsing date for I dubbi della Corte di Cassazione sul piano Albania, due rinvii alla Corte Ue: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,942 - ERROR - Error parsing date for Children with mothers suffering from domestic violence prone to mental health issues, study says: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,946 - ERROR - Error parsing date for Alessio confessa: 'Martina ha rifiutato il mio abbraccio e l'ho colpita di spalle': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,954 - ERROR - Error parsing date for IPL 2025, GT vs MI Eliminator LIVE: Mumbai Indians wins toss, elect to bat first: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,959 - ERROR - Error parsing date for Panetta: 'Incertezza sui dazi, a rischio un punto di Pil mondiale': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,967 - ERROR - Error parsing date for France to ban smoking at beaches, parks and outside schools to protect children: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,970 - ERROR - Error parsing date for Usa, battaglia giudiziaria sui dazi. Trump attacca la sentenza: 'Orribile': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,975 - ERROR - Error parsing date for Russian captain involved in U.S. tanker crash pleads not guilty to manslaughter in U.K. court: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,978 - ERROR - Error parsing date for Medio Oriente, Ben Gvir: 'Entriamo a Gaza con tutta la forza necessaria': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,982 - ERROR - Error parsing date for Daily Quiz | On the monsoons: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:17,988 - ERROR - Failed to fetch http://english.ahram.org.eg/RSS.aspx for Ahram Online (Egypt): 403 Client Error: Forbidden for url: http://english.ahram.org.eg/RSS.aspx
+2025-05-30 19:46:17,993 - ERROR - Error parsing date for Il Cremlino: 'Vertice con Zelensky e Trump solo dopo risultati': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,006 - ERROR - Error parsing date for Isolated incidents should not tarnish Meghalaya’s image: Tourism Minister: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,011 - ERROR - Error parsing date for Che cosa chiedono i 5 referendum dell'8 e 9 giugno: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,018 - ERROR - Error parsing date for Follow in the steps of Elvis Presley and Taylor Swift on a road trip through Memphis and Nashville: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,026 - ERROR - Error parsing date for Caritas: 'La cittadinanza in tempi congrui riconosce dignità': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,032 - ERROR - Error parsing date for Assam arms licence policy recipe for communal violence: Akhil Gogoi: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,041 - ERROR - Error parsing date for Alla scoperta The Residence, Yellowjackets e Intrigo internazionale: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,051 - ERROR - Error parsing date for GDP growth slows to 6.5% in 2024-25, slowest since the pandemic: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,063 - ERROR - Error parsing date for Catania, nave da crociera rompe gli ormeggi per il forte vento: 2 turisti in mare: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,067 - ERROR - Error parsing date for Rupee falls 8 paise to settle at 85.56 against U.S. dollar: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,076 - ERROR - Error parsing date for Mattarella nomina 25 nuovi cavalieri del Lavoro: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,110 - ERROR - Error parsing date for Pakistan enacts law to curb child marriages: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,121 - ERROR - Error parsing date for Btp Italia, IL tasso annuo definitivo resta all'1,85%: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,127 - ERROR - Error parsing date for Penalise shops without Tamil nameboards, says Puducherry BJP leader: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,127 - ERROR - Failed to fetch https://feeds.elpais.com/rss for El País (Spain): 403 Client Error: Forbidden for url: https://feeds.elpais.com/rss
+2025-05-30 19:46:18,168 - ERROR - Error parsing date for Sclerosi multipla, risposte insufficienti per il 78% dei malati: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,217 - ERROR - Error parsing date for ‘Karate Kid: Legends’ movie review: Jackie Chan and Ben Wang star in sweet, ‘80s-style martial arts drama: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,287 - ERROR - Error parsing date for Nel weekend primo picco del caldo, previsti 34 gradi: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,320 - INFO - Fetched 100 articles from The Hindu (India)
+2025-05-30 19:46:18,349 - ERROR - Error parsing date for Tornare alla vita. Le case rifugio e il racconto di chi è sopravvissuta alla violenza: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,393 - ERROR - Error parsing date for Cina: 'Gli Usa evitino tensioni, basta vendita di armi a Taiwan': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,400 - ERROR - Error parsing date for Il 14% degli adulti fumatori ha una qualche forma di disabilità: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,403 - ERROR - Error parsing date for Esplosione in una casa cantoniera a Empoli, grave un 47enne: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,439 - ERROR - Error parsing date for Premiati in Usa 17 ricercatori italiani per studi sui tumori: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,444 - ERROR - Error parsing date for I reati contro gli animali diventano legge, multe e carcere per chi li abbandona: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,447 - ERROR - Error parsing date for Bianca Balti: 'Senza le pillole salvavita non lavoro': can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:18,453 - INFO - Fetched 28 articles from ANSA (Italy)
+2025-05-30 19:46:18,575 - INFO - Fetched 45 articles from The Guardian (UK)
+2025-05-30 19:46:18,577 - WARNING - No entries found for Hurriyet Daily News (Turkey)
+2025-05-30 19:46:18,742 - ERROR - Failed to fetch https://www1.folha.uol.com.br/internacional/en/rss102.xml for Folha de S.Paulo (Brazil): 404 Client Error: Not Found for url: https://www1.folha.uol.com.br/internacional/en/rss102.xml
+2025-05-30 19:46:19,271 - ERROR - Failed to fetch https://www.lanacion.com.ar/rss/arcio/rss/ for La Nacional (Argentina): 404 Client Error: Not Found for url: https://www.lanacion.com.ar/rss/arcio/rss/
+2025-05-30 19:46:19,684 - ERROR - Error parsing date for EU state sentences teacher for ‘pro-Russian’ views: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,689 - ERROR - Error parsing date for Veto ban would spell the end of EU – Fico: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,695 - ERROR - Error parsing date for Elite Western universities are a corrupt, parasitic empire: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,701 - ERROR - Error parsing date for Russian security chief reacts to German missile claims: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,708 - ERROR - Error parsing date for Trump aide caught in impersonation scam – WSJ: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,713 - ERROR - Error parsing date for Trump’s trade war has cost firms $34 billion – Reuters: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,719 - ERROR - Error parsing date for Importing crime: Angela Merkel started the EU’s migrant crisis, and she wants it to continue: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,724 - ERROR - Error parsing date for Pentagon employee arrested for trying to leak secrets over Trump grievances: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,729 - ERROR - Error parsing date for Ukraine trying to trick Trump – Moscow: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,734 - ERROR - Error parsing date for Russia has ‘fair concern’ about NATO expansion – Trump envoy: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,740 - ERROR - Error parsing date for Serbian firms secretly delivering ammunition to Ukraine – Russian spy agency: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,745 - ERROR - Error parsing date for France approves right-to-die law: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,750 - ERROR - Error parsing date for UK to step up cyberattacks on Russia and China – minister: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,756 - ERROR - Error parsing date for Russia prepared to strike Germany if Taurus missiles are used – senior MP: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,761 - ERROR - Error parsing date for Israel and Hamas agree to Gaza ceasefire proposal – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,765 - ERROR - Error parsing date for Immigrant arrested after threatening to kill Trump: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,770 - ERROR - Error parsing date for US court blocks Trump’s tariffs: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,775 - ERROR - Error parsing date for UK unveils bill to stop capital outflow: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,780 - ERROR - Error parsing date for AI CEO issues stark warning: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,784 - ERROR - Error parsing date for Berlin offers Kiev another €5 billion: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,789 - ERROR - Error parsing date for How to start a war with Russia in these easy steps: Just ask Merz’s Germany: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,794 - ERROR - Error parsing date for CIA running out of international informants and spies – WaPo: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,798 - ERROR - Error parsing date for Ukraine needed Western help to target Putin’s helicopter – Scott Ritter: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,804 - ERROR - Error parsing date for Lavrov briefs Rubio on Ukraine negotiations: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,809 - ERROR - Error parsing date for Musk stepping down as special government employee: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,814 - ERROR - Error parsing date for UK charges Tate brothers with human trafficking and rape: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,819 - ERROR - Error parsing date for UK eyeing permanent Arctic military presence – Telegraph: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,824 - ERROR - Error parsing date for Germany ‘sliding down to collapse’ – Lavrov: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,829 - ERROR - Error parsing date for US ready to apply ‘maximum pressure’ on Russia – State Dept: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,834 - ERROR - Error parsing date for Merz vows to block Nord Stream 2: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,840 - ERROR - Error parsing date for Kremlin responds to Germany’s long-range missile pledge to Ukraine: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,847 - ERROR - Error parsing date for Germany to deny Ukraine’s request for Taurus missiles – Bild: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,853 - ERROR - Error parsing date for Macron has been slapped in the face in more ways than one: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,856 - ERROR - Error parsing date for US lawmakers want Soros-linked Polish election ‘violations’ addressed: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,862 - ERROR - Error parsing date for Netanyahu calls NYT report on Iran strike plans ‘fake news’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,869 - ERROR - Error parsing date for This nation is looking to become NATO’s war machine. What will Russia do?: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,879 - ERROR - Error parsing date for EU to call on members to reduce water consumption – FT: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,886 - ERROR - Error parsing date for The slap in Hanoi: Why we should sympathize with Macron: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,894 - ERROR - Error parsing date for EU has isolated itself, not Russia – Luxembourg MEP: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,905 - ERROR - Error parsing date for EU state blasts Germany over Russia threats: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,915 - ERROR - Error parsing date for Musk ‘disappointed’ by Trump’s ‘Big Beautiful Bill’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,931 - ERROR - Error parsing date for Trump’s Ukraine envoy condemns Medvedev’s ‘reckless’ WW3 comment: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,944 - ERROR - Error parsing date for Police respond to shooting at US mall: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,955 - ERROR - Error parsing date for EU state calls for Schengen ban on Russians: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,968 - ERROR - Error parsing date for Putin ‘playing with fire’ – Trump: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,976 - ERROR - Error parsing date for EU state sues Belarus for €200mn: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,986 - ERROR - Error parsing date for EU sanctions against Russia don’t work – Bild: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,995 - ERROR - Error parsing date for US blocks tougher G7 sanctions wording on Russia – FT: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:19,999 - ERROR - Error parsing date for Putin to visit China for WWII victory in Asia celebrations – Shoigu: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,005 - ERROR - Error parsing date for Germany risks becoming a target for Russia – for the first time since Hitler: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,016 - ERROR - Error parsing date for EU adopts €150 billion defense debt plan: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,027 - ERROR - Error parsing date for Germany threatens EU states with loss of funding: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,034 - ERROR - Error parsing date for EU state follows through on LGBTQ parade ban promise: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,043 - ERROR - Error parsing date for Banned ex-Romanian presidential front-runner quits politics: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,050 - ERROR - Error parsing date for Greenland eyes Chinese investment amid ‘new world order’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,058 - ERROR - Error parsing date for Türkiye ready to host next round of Ukraine peace talks: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,063 - ERROR - Error parsing date for NATO chief fears Trump-Zelensky conflict could derail summit – NYT: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,071 - ERROR - Error parsing date for German officials reveal major change to Russia sanctions enforcement – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,077 - ERROR - Error parsing date for US senator pushes mega-tariffs on Russia’s partners: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,083 - ERROR - Error parsing date for Trump’s ‘Golden Dome’ plan will ignite nuclear arms race – North Korea: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,091 - ERROR - Error parsing date for Trump could exit Ukraine talks – NYT: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,103 - ERROR - Error parsing date for Liverpool ramming not being treated as terrorism – police: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,113 - ERROR - Error parsing date for Passport to nowhere: Team Trump’s new deportation game show: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,121 - ERROR - Error parsing date for Macron explains slap from wife: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,127 - ERROR - Error parsing date for US troop withdrawal from Europe expected in ‘coming months’ – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,132 - ERROR - Error parsing date for Car plows into crowd at Liverpool football celebrations (VIDEOS): can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,136 - ERROR - Error parsing date for German bank restricts ex-chancellor’s account over sanctions fears – Bild: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,142 - ERROR - Error parsing date for Israel and Ukraine fighting ‘proxy wars’ for the West – UK Tory leader: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,147 - ERROR - Error parsing date for Kremlin reacts to West lifting limits on long-range weapons for Ukraine: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,153 - ERROR - Error parsing date for Ukraine can strike deep inside Russia using German weapons – Merz: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,160 - ERROR - Error parsing date for Ukraine will have to pay for new Patriots – WaPo: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,165 - ERROR - Error parsing date for Poland wants to ‘earn big money’ on Ukraine – Tusk: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,170 - ERROR - Error parsing date for EU could end protections for Ukrainian immigrants – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,175 - ERROR - Error parsing date for Germany arming for possible conflict with Russia – Reuters: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,179 - ERROR - Error parsing date for US interfering in UK’s internal affairs – Telegraph: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,183 - ERROR - Error parsing date for ‘Everything out of Zelensky’s mouth causes problems’ – Trump: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,188 - ERROR - Error parsing date for Trump claims Putin ‘has gone absolutely crazy for no reason’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,193 - ERROR - Error parsing date for Top Russian MP advises Telegram’s Durov to leave France: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,202 - ERROR - Error parsing date for Amazon tribe sues NYT over ‘porn addicts’ claim – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,208 - ERROR - Error parsing date for EU could be ‘destroyed’ – Merkel: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,214 - ERROR - Error parsing date for German politician urges talks on restoring Nord Stream: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,222 - ERROR - Error parsing date for German e-mobility association files for bankruptcy – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,227 - ERROR - Error parsing date for US de facto financing persecution of Christians in Ukraine – Tucker Carlson: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,235 - ERROR - Error parsing date for The idea of ‘Eurasia’ is much more viable than ‘Europe’ – here’s why: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,242 - ERROR - Error parsing date for Trump’s tariff threat could cost Germany €200 billion – study: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,253 - ERROR - Error parsing date for Western Europe considers buying US arms for Ukraine – Bloomberg: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,258 - ERROR - Error parsing date for Biden appears in public after cancer diagnosis announcement (VIDEO): can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,264 - ERROR - Error parsing date for Romanian presidential candidate calls for protests without Ukraine-style ‘bloodbath’: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,272 - ERROR - Error parsing date for German defense minister teases possible conscription in 2026: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,278 - ERROR - Error parsing date for Slovak party to demand Ukraine compensate aid: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,284 - ERROR - Error parsing date for US ‘learning’ from Ukraine conflict – Trump: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,294 - ERROR - Error parsing date for Hack fest in Moscow sparks BRICS cyber ties: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,302 - ERROR - Error parsing date for AI hallucinations: a budding sentience or a global embarrassment?: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,308 - ERROR - Error parsing date for Paris arrested Telegram founder to meddle in Romanian election — Moscow: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,313 - ERROR - Error parsing date for Trump ‘gutting the Deep State’ inside National Security Council – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,317 - ERROR - Error parsing date for US moves to implement Trump’s ‘vision’ for Syria: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,322 - ERROR - Error parsing date for Former Yanukovich presidential adviser visited Kiev days before assassination – media: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,330 - ERROR - Error parsing date for ‘Era of uncontested US dominance over’ – Vance: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,337 - ERROR - Error parsing date for Multiple injured in stabbing attack in Germany: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,342 - ERROR - Error parsing date for US firms explore reboot of Germany’s nuclear plants – Bild: can't compare offset-naive and offset-aware datetimes
+2025-05-30 19:46:20,348 - INFO - Fetched 100 articles from RT (Russia)
+2025-05-30 19:46:20,806 - ERROR - Failed to fetch https://www.straitstimes.com/rss/latest-news for The Straits Times (Singapore): HTTPSConnectionPool(host='www.straitstimes.com', port=443): Max retries exceeded with url: /rss/latest-news (Caused by ResponseError('too many 500 error responses'))
+2025-05-30 19:46:28,123 - ERROR - Failed to fetch https://punchng.com/feed for The Punch (Nigeria): HTTPSConnectionPool(host='rss.punchng.com', port=443): Max retries exceeded with url: /v1/category/latest_news (Caused by ResponseError('too many 500 error responses'))
+2025-05-30 19:46:28,125 - INFO - Total articles fetched: 644
+2025-05-30 19:46:28,137 - INFO - Removed 59 duplicates
+2025-05-30 19:46:28,160 - INFO - Saved to downloads\news_data.csv
+2025-05-30 19:46:28,168 - INFO - Saved to downloads\news_data.json
+2025-05-30 19:46:33,550 - INFO - Saved data to database
+2025-05-30 19:46:33,551 - INFO - Scheduled scraping completed
