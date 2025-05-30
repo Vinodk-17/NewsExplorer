@@ -211,7 +211,7 @@ Find key UI features in the `screenshots/` directory:
 7. ### 🔗 **URL Scraping**
 
    Form input to scrape new RSS feed URLs and fetch live article data.
-   ![Live Scraping](screenshots/livescraping.png)
+   ![Live Scraping](screenshots/Livescraping.png)
 
 8. ### 📥 **Download CSV Format**
 
