@@ -134,6 +134,13 @@ To ensure all dependencies are installed correctly, you can use a `requirements.
 
 ## 🛠️ How to Run the Application
 
+###  📦 Install Dependencies
+
+Install dependencies using:
+```bash
+pip install -r requirements.txt
+```
+
 ### 1. Start the Backend (FastAPI)
 1. Save the backend code as `backend.py`.
 2. Open a terminal in the project directory.
@@ -214,36 +221,6 @@ Find screenshots in the `screenshots/` directory:
 | **Invalid RSS feed URL**                 | Ensure URL ends with `.rss` or `.xml` (e.g., `https://example.com/rss`). |
 | **Encoding errors**                      | Handled via `.encode('utf-8', errors='ignore')`; check logs for issues.  |
 | **Streamlit cache issues**               | Clear cache with `streamlit cache clear`.                               |
-
----
-
-## 📄 `requirements.txt`
-
-Create a `requirements.txt` file to document dependencies:
-
-```txt
-feedparser==6.0.10
-pandas==2.0.3
-requests==2.31.0
-beautifulsoup4==4.12.2
-langdetect==1.0.9
-vaderSentiment==3.3.2
-fastapi==0.103.0
-uvicorn==0.23.2
-streamlit==1.25.0
-plotly==5.15.0
-apscheduler==3.10.4
-```
-
-Generate an accurate version with:
-```bash
-pip freeze > requirements.txt
-```
-
-Install dependencies using:
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
