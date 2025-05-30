@@ -146,17 +146,16 @@ pandas
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
-*Add screenshots of your app UI here if you're submitting this for review or publishing online.*
 
 ---
 
 ## 👨‍💻 Author
 
 **Your Name**
-🔗 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+🔗 GitHub: [https://github.com/yourusername](https://github.com/Vinodk-17)
+🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vinod-kuril-6398b5220/)
 
 ---
 
