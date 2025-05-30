@@ -209,15 +209,4 @@ Developed as a comprehensive solution for multilingual news scraping and explora
 
 ## 📄 License
 
-© 2025 **Global News Explorer**. All rights reserved.
-
----
-
-Let me know if you'd like:
-
-* A `requirements.txt` file
-* Screenshots added to the README
-* Docker support
-* CI/CD setup (e.g., GitHub Actions)
-
-Ready to help polish it even more!
+© 2025 **News Explorer**. All rights reserved.
