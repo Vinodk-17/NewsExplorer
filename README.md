@@ -99,13 +99,6 @@ project_directory/
 
 ```bash
 pip install feedparser pandas requests beautifulsoup4 langdetect vaderSentiment fastapi uvicorn streamlit plotly apscheduler
-```
-
-(Optional)
-
-```bash
-pip freeze > requirements.txt
-```
 
 ---
 
