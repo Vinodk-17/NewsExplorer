@@ -1,6 +1,3 @@
-Here's a properly formatted and polished version of your README using standard Markdown syntax and structure, ready for GitHub or any documentation platform:
-
----
 
 # 📰 RSS News Feed Scraper using Streamlit
 
