@@ -175,12 +175,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🖼️ Screenshots
-
-Here is the **screenshots section** rewritten to match your detailed feature descriptions and correctly reference the visuals:
-
----
-
 ## 📸 Screenshots
 
 Find key UI features in the `screenshots/` directory:
@@ -208,7 +202,7 @@ Find key UI features in the `screenshots/` directory:
 5. ### 📊 **Visualization of Filtered Data**
 
    Interactive Plotly charts for visual analysis of filtered articles by country, language, and sentiment.
-   ![Visualizations](screenshots/visualizations.png)
+   ![Visualizations](screenshots/visualization.png)
 
 6. ### 📈 **All Available Data Summary**
 
