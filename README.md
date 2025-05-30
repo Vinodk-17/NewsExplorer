@@ -5,12 +5,13 @@
 ## 🌍 Overview
 
 **News Explorer** is a powerful Python-based application that extracts, analyzes, and visualizes news articles from over **25 countries** using RSS feeds and historical article scraping. It offers:
-* Scrapes news from 24+ countries using RSS feeds
-* Language detection
-* Sentiment analysis
-* Structured data storage (SQLite, CSV, JSON)
-* A **FastAPI** backend for RESTful API access
-* A **Streamlit** frontend for interactive exploration
+
+- Scrapes news from 24+ countries using RSS feeds
+- Language detection
+- Sentiment analysis
+- Structured data storage (SQLite, CSV, JSON)
+- A **FastAPI** backend for RESTful API access
+- A **Streamlit** frontend for interactive exploration
 
 > Ideal for researchers, journalists, analysts, or developers interested in media monitoring, multilingual sentiment trends, or news aggregation.
 
@@ -20,40 +21,38 @@
 
 ### 🔍 Core Functionality
 
-* **Multi-country RSS Scraping**: 30+ sources (BBC, Al Jazeera, NHK, CNN, etc.) across 25+ countries using `feedparser`
-* **Historical Data Parsing**: Scrapes older articles with `BeautifulSoup4`
-* **Structured Data Extraction**: Fields include:
-
-  * `Title`, `Published Date`, `Source`, `Country`, `Summary`, `URL`, `Language`, `Sentiment`
-* **Robust Error Handling**: Defaults and fallbacks for missing metadata, encoding errors, and structure mismatches
+- **Multi-country RSS Scraping**: 30+ sources (BBC, Al Jazeera, NHK, CNN, etc.) across 25+ countries using `feedparser`
+- **Historical Data Parsing**: Scrapes older articles with `BeautifulSoup4`
+- **Structured Data Extraction**: Fields include:
+  - `Title`, `Published Date`, `Source`, `Country`, `Summary`, `URL`, `Language`, `Sentiment`
+- **Robust Error Handling**: Defaults and fallbacks for missing metadata, encoding errors, and structure mismatches
 
 ### 🧠 Intelligence
 
-* **Language Detection**: `langdetect` identifies the article language (e.g., `en`, `hi`, `ja`)
-* **Sentiment Analysis**: Classifies article summaries as `positive`, `negative`, or `neutral` using `vaderSentiment`
+- **Language Detection**: `langdetect` identifies the article language (e.g., `en`, `hi`, `ja`)
+- **Sentiment Analysis**: Classifies article summaries as `positive`, `negative`, or `neutral` using `vaderSentiment`
 
 ### 💾 Data Storage
 
-* **SQLite Database**: `news_data.db` with unique constraints to prevent duplicates
-* **CSV & JSON** Exports: Stored in the `/downloads` directory for easy access and portability
+- **SQLite Database**: `news_data.db` with unique constraints to prevent duplicates
+- **CSV & JSON** Exports: Stored in the `/downloads` directory for easy access and portability
 
 ### 🌐 API with FastAPI
 
-* RESTful endpoints for querying, filtering, and scraping news dynamically
+- RESTful endpoints for querying, filtering, and scraping news dynamically
 
 ### 📊 Streamlit Frontend
 
-* Interactive UI with filters for:
-
-  * Country, Language, Source, Sentiment, Year, Keywords
-* Visualizations via `Plotly`
-* Live scraping of new feeds
-* Export filtered results as CSV/JSON
+- Interactive UI with filters for:
+  - Country, Language, Source, Sentiment, Year, Keywords
+- Visualizations via `Plotly`
+- Live scraping of new feeds
+- Export filtered results as CSV/JSON
 
 ### ⏰ Automated Scraping
 
-* Every 4 hours using `apscheduler`
-* Parallel feed scraping using `concurrent.futures`
+- Every 4 hours using `apscheduler`
+- Parallel feed scraping using `concurrent.futures`
 
 ---
 
@@ -61,14 +60,16 @@
 
 ```bash
 project_directory/
-├── app.py               # FastAPI backend
-├── ui_app.py            # Streamlit frontend
+├── backend.py           # FastAPI backend
+├── frontend.py          # Streamlit frontend
 ├── news_data.db         # SQLite DB
 ├── downloads/           # Output directory
 │   ├── news_data.csv
 │   ├── news_data.json
+├── screenshots/         # Screenshots for README
 ├── news_scraper.log     # Log of scraping events
-```
+├── requirements.txt     # Python dependencies
+````
 
 ---
 
@@ -92,18 +93,35 @@ project_directory/
 
 ### 🔁 Prerequisites
 
-* Python 3.8+
+* Python 3.8 or later
+* Git
 * Internet connection
+
+### 📥 Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/news-explorer.git
+cd news-explorer
+```
 
 ### 📦 Install Dependencies
 
+Create a virtual environment (optional but recommended):
+
 ```bash
-pip install feedparser pandas requests beautifulsoup4 langdetect vaderSentiment fastapi uvicorn streamlit plotly apscheduler
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+```
+
+Then install all required packages:
+
+```bash
+pip install -r requirements.txt
 ```
 
 ---
 
-## 🛠️ How to Run
+## 🛠️ How to Run the Application
 
 ### 1. Start the Backend (FastAPI)
 
@@ -121,8 +139,16 @@ python backend.py
 streamlit run frontend.py
 ```
 
-* Opens UI in browser (`http://localhost:8501`)
-* Explore, filter, visualize, and export data
+* Opens UI in browser at `http://localhost:8501`
+* Explore, filter, visualize, and export news data
+
+---
+
+## 🖼️ Screenshots
+
+Please refer to the `screenshots/` folder.
+
+
 
 ---
 
@@ -138,13 +164,12 @@ streamlit run frontend.py
 | Qatar        | Al Jazeera        | \~20     | Since 2025          |
 | Russia       | RT                | \~30     | Since 2025          |
 | South Africa | News24            | \~15     | Since 2025          |
-| ...          | ...               | ...      | ...                 |
 
 > *Numbers vary based on feed updates and scraping frequency*
 
 ---
 
-## 🐛 Troubleshooting
+## 🧪 Troubleshooting
 
 | Issue                                           | Solution                                                 |
 | ----------------------------------------------- | -------------------------------------------------------- |
@@ -156,25 +181,35 @@ streamlit run frontend.py
 
 ---
 
-## 🖼️ Screenshots
+## 📄 `requirements.txt`
 
-(Add your screenshots here under `screenshots/` folder)
+Example of your `requirements.txt`:
 
-* Filter Panel
-* Article Cards
-* Data Visualizations
-* Scrape via RSS Form
+```txt
+feedparser
+pandas
+requests
+beautifulsoup4
+langdetect
+vaderSentiment
+fastapi
+uvicorn
+streamlit
+plotly
+apscheduler
+```
+
+> Generate this via: `pip freeze > requirements.txt` for full package versions
 
 ---
 
-## 🛣️ Roadmap (Planned Enhancements)
+## 🛣️ Roadmap
 
 * [ ] Add more countries and RSS sources
 * [ ] Smarter keyword filtering and full-text search
 * [ ] Date range filtering
 * [ ] User authentication & dashboards
 * [ ] Enhanced visualizations (e.g., heatmaps, trends over time)
-
 
 ---
 
@@ -204,3 +239,5 @@ Developed as a comprehensive solution for multilingual news scraping and explora
 ## 📄 License
 
 © 2025 **News Explorer**. All rights reserved.
+
+```
