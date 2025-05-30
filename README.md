@@ -114,7 +114,7 @@ pip freeze > requirements.txt
 ### 1. Start the Backend (FastAPI)
 
 ```bash
-python app.py
+python backend.py
 ```
 
 * Starts server on `http://localhost:8000`
@@ -124,7 +124,7 @@ python app.py
 ### 2. Launch the Frontend (Streamlit)
 
 ```bash
-streamlit run ui_app.py
+streamlit run frontend.py
 ```
 
 * Opens UI in browser (`http://localhost:8501`)
