@@ -228,14 +228,6 @@ Find key UI features in the `screenshots/` directory:
    ![Live Scraping](screenshots/downloadjson.png)
   
 
----
-
-Would you like help designing placeholder screenshots for the missing features (like All Available Data, CSV/JSON export UI), if you don’t already have them?
-
-
-*Note*: Replace placeholders with actual screenshots by capturing the Streamlit UI and saving them in `screenshots/`.
-
----
 
 ## 📈 Sample Coverage
 
